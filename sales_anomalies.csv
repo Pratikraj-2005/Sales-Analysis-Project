@@ -1,0 +1,25 @@
+Invoice_ID,Date,Customer_Name,Gender,Location,Product_ID,Product_Name,Category,Quantity,Unit_Price,Total_Price,Payment_Method,Rating,Month,z_anomaly,if_anomaly
+INV0053,2025-01-31,Jean Taylor,Male,Bangalore,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,3.2,2025-01,True,1
+INV0076,2025-01-11,Ashley Taylor,Male,Kolkata,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,4.0,2025-01,True,1
+INV0079,2025-03-19,Monica Castillo,Female,Mumbai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,5.0,2025-03,True,1
+INV0090,2025-03-17,Mrs. Amber Wilson PhD,Female,Chennai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,4.0,2025-03,True,1
+INV0136,2025-03-10,Danielle Castillo,Male,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Upi,3.3,2025-03,True,1
+INV0150,2025-03-02,Peter Mejia,Female,Jaipur,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,3.0,2025-03,True,1
+INV0153,2025-04-24,Amanda Johnson,Male,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Upi,3.3,2025-04,True,1
+INV0188,2024-12-01,Rebecca Chen,Female,Mumbai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Upi,4.7,2024-12,True,1
+INV0247,2025-04-10,Reginald Woods,Male,Mumbai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Upi,4.2,2025-04,True,1
+INV0250,2025-01-01,Matthew Cummings,Female,Kolkata,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Upi,3.7,2025-01,True,1
+INV0260,2025-01-08,John Stephens,Female,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,4.6,2025-01,True,1
+INV0394,2025-05-13,Kelly Yang,Female,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,4.8,2025-05,True,1
+INV0414,2025-01-05,Jennifer Ramirez,Male,Delhi,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,3.3,2025-01,True,1
+INV0437,2024-12-19,Bradley Thomas,Female,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Upi,4.9,2024-12,True,1
+INV0470,2025-01-24,Mark Lamb,Male,Bangalore,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Upi,3.7,2025-01,True,1
+INV0515,2025-02-17,Elizabeth Gardner,Male,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,4.2,2025-02,True,1
+INV0517,2025-04-25,Scott Harrison,Male,Bangalore,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,3.5,2025-04,True,1
+INV0538,2025-02-28,Rose Morales,Female,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,4.3,2025-02,True,1
+INV0622,2025-05-17,Pam Johnson,Female,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,4.4,2025-05,True,1
+INV0625,2025-03-02,Karen Campbell,Male,Jaipur,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,4.3,2025-03,True,1
+INV0662,2024-12-06,Paul Perez,Male,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,3.7,2024-12,True,1
+INV0668,2025-04-09,Stacey Miller,Male,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,3.0,2025-04,True,1
+INV0806,2024-12-28,Victoria Aguilar,Male,Chennai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,3.2,2024-12,True,1
+INV0832,2025-02-02,Robert Cardenas,Female,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,3.7,2025-02,True,1

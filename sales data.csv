@@ -1,0 +1,1001 @@
+Invoice_ID,Date,Customer_Name,Gender,Location,Product_ID,Product_Name,Category,Quantity,Unit_Price,Total_Price,Payment_Method,Rating
+INV0001,2025-03-12,Megan Brock,Female,Bangalore,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Cash,4.2
+INV0002,2024-12-13,Erin Kim,Male,Hyderabad,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Card,4.2
+INV0003,2024-12-06,Jermaine Roberts,Male,Jaipur,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Wallet,4.8
+INV0004,2025-04-10,Aaron Smith,Female,Jaipur,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Card,3.4
+INV0005,2025-01-31,Jill Wright,Male,Mumbai,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,UPI,4.3
+INV0006,2025-03-23,Debbie Cervantes,Female,Delhi,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,UPI,4.6
+INV0007,2024-12-15,Eric Gonzalez,Male,Hyderabad,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,UPI,4.9
+INV0008,2024-12-13,Angel Jones,Female,Hyderabad,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Card,4.5
+INV0009,2025-02-21,Amy Arroyo,Female,Chennai,P1001,Samsung M14,Mobile,1.0,14000,14000.0,Wallet,3.4
+INV0010,2024-11-30,Sharon White,Male,Hyderabad,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,UPI,4.3
+INV0011,2024-11-24,Jose Crane,Male,Kolkata,P1001,Samsung M14,Mobile,2.0,14000,28000.0,Card,3.0
+INV0012,2025-02-09,Richard Rivera,Male,Mumbai,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Cash,4.8
+INV0013,2025-03-24,John Lamb,Female,Chennai,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Cash,3.4
+INV0014,2025-04-15,Jasmine Morton,Female,Pune,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,Wallet,4.5
+INV0015,2025-04-20,Allen Boyd,Female,Chennai,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Cash,3.8
+INV0016,2025-03-21,Jason Bridges,Female,Kolkata,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Card,4.2
+INV0017,2024-12-06,Johnny Ramos,Female,Jaipur,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Cash,3.8
+INV0018,2025-04-16,Matthew Gomez,Male,Hyderabad,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,UPI,4.7
+INV0019,2025-03-08,Anna Murphy,Male,Jaipur,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Card,4.5
+INV0020,2025-03-17,Nicole Ballard,Female,Jaipur,P1001,Samsung M14,Mobile,5.0,14000,70000.0,Cash,3.8
+INV0021,2025-04-24,Jay Mitchell,Female,Bangalore,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Card,4.1
+INV0022,2025-02-09,Dakota Pope,Female,Bangalore,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Wallet,4.8
+INV0023,2025-02-15,Howard Barnes,Female,Mumbai,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Card,4.4
+INV0024,2024-11-16,Kimberly Carlson,Female,Kolkata,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Wallet,3.9
+INV0025,2025-04-09,Ryan Gallegos,Female,Jaipur,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Wallet,3.3
+INV0026,2024-12-21,Barbara Perez,Male,Delhi,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Card,3.2
+INV0027,2025-05-03,John Mccarty,Female,Delhi,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,UPI,4.0
+INV0028,2025-01-13,Mark Barker,Female,Chennai,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Cash,4.6
+INV0029,2025-02-03,Tyler Watts,Male,Kolkata,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,Card,3.3
+INV0030,2025-04-28,Debbie Graham,Male,Chennai,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Card,4.0
+INV0031,2025-03-19,Valerie Navarro,Female,Mumbai,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Card,4.2
+INV0032,2024-11-21,Mark Woods,Female,Hyderabad,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Wallet,4.4
+INV0033,2025-03-05,Joseph Harvey,Female,Bangalore,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Card,3.5
+INV0034,2024-11-18,Daniel Lloyd,Male,Jaipur,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,UPI,3.7
+INV0035,2025-05-17,Ann Knox,Female,Bangalore,P1001,Samsung M14,Mobile,2.0,14000,28000.0,Wallet,4.3
+INV0036,2025-02-24,Maria Oliver,Female,Hyderabad,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Cash,3.2
+INV0037,2024-12-15,Tiffany Brown,Male,Mumbai,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Card,4.1
+INV0038,2025-04-28,Mark Sullivan,Female,Bangalore,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Cash,4.1
+INV0039,2025-02-22,Stephanie Gutierrez,Female,Hyderabad,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,UPI,3.9
+INV0040,2024-11-20,Jonathan Klein,Male,Hyderabad,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Card,3.2
+INV0041,2025-03-08,Amanda Taylor,Male,Mumbai,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Cash,4.4
+INV0042,2024-12-14,Andrew Knox,Male,Chennai,P1002,iPhone 14,Mobile,4.0,75000,300000.0,UPI,5.0
+INV0043,2025-05-12,David Peterson,Female,Delhi,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Card,4.5
+INV0044,2025-05-06,Jennifer Morrison,Female,Delhi,P2003,MacBook Air,Laptop,3.0,95000,285000.0,UPI,4.0
+INV0045,2025-01-28,Aaron Clark,Female,Bangalore,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Cash,4.8
+INV0046,2025-01-06,Larry Campbell,Female,Kolkata,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Wallet,4.1
+INV0047,2025-03-21,Rick Black,Male,Chennai,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Wallet,3.2
+INV0048,2025-04-05,Patrick Peters,Male,Mumbai,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Card,3.4
+INV0049,2025-03-19,Rebecca Long,Male,Delhi,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Card,3.5
+INV0050,2025-01-30,Jonathan Gonzalez,Male,Kolkata,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Wallet,4.5
+INV0051,2025-01-27,Taylor Jones,Female,Jaipur,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Cash,4.1
+INV0052,2025-03-31,Kayla Taylor,Female,Bangalore,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Card,4.3
+INV0053,2025-01-31,Jean Taylor,Male,Bangalore,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,3.2
+INV0054,2025-04-17,Sharon Rodriguez,Female,Jaipur,P1002,iPhone 14,Mobile,5.0,75000,375000.0,UPI,3.5
+INV0055,2025-03-10,Rachel Thomas,Male,Hyderabad,P1001,Samsung M14,Mobile,2.0,14000,28000.0,Card,4.2
+INV0056,2024-11-19,Joseph Peterson Jr.,Male,Jaipur,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Card,3.5
+INV0057,2024-12-22,Sean Smith,Male,Kolkata,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Wallet,3.9
+INV0058,2025-04-05,Emily Ward,Female,Chennai,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Cash,3.2
+INV0059,2025-03-06,Joel Walsh,Male,Kolkata,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Card,4.4
+INV0060,2024-11-19,Darrell Farrell,Female,Jaipur,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Wallet,4.0
+INV0061,2025-02-03,Emily Taylor,Male,Kolkata,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Cash,3.5
+INV0062,2025-04-06,Brian Harvey,Female,Hyderabad,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Wallet,4.5
+INV0063,2024-12-01,Samuel Allen,Male,Mumbai,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Card,4.2
+INV0064,2025-04-21,David Harris,Male,Kolkata,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,4.8
+INV0065,2025-02-11,Courtney Moran,Male,Bangalore,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Cash,3.4
+INV0066,2025-02-06,Sharon Mason,Female,Mumbai,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Wallet,3.2
+INV0067,2025-02-12,David Calhoun,Female,Pune,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Cash,4.9
+INV0068,2025-02-11,Tony Lin,Male,Mumbai,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,UPI,4.3
+INV0069,2024-11-28,Lisa Smith,Female,Pune,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,UPI,3.9
+INV0070,2025-02-01,Karen Reese,Female,Chennai,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Wallet,4.9
+INV0071,2025-03-12,Thomas Young,Male,Kolkata,P1002,iPhone 14,Mobile,5.0,75000,375000.0,UPI,3.1
+INV0072,2024-11-29,Thomas Avery,Male,Chennai,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,UPI,3.1
+INV0073,2024-11-29,Amy Scott,Male,Bangalore,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Cash,4.6
+INV0074,2025-01-15,Melissa Park,Female,Kolkata,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Card,3.9
+INV0075,2025-01-04,Lauren Newman,Male,Jaipur,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Card,4.2
+INV0076,2025-01-11,Ashley Taylor,Male,Kolkata,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,4.0
+INV0077,2025-04-03,Amy Giles,Female,Bangalore,P4001,Samsung Smart TV,Smart TV,5.0,40000,,Card,3.4
+INV0078,2025-03-13,Christopher Beck,Female,Chennai,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Card,3.7
+INV0079,2025-03-19,Monica Castillo,Female,Mumbai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,5.0
+INV0080,2025-02-12,Kyle Stewart,Male,Bangalore,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Card,4.2
+INV0081,2025-02-05,Jennifer Andrews,Male,Bangalore,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Card,4.8
+INV0082,2024-12-26,Antonio Anderson,Female,Pune,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Wallet,4.3
+INV0083,2024-11-30,Michael Robbins,Male,Chennai,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Wallet,3.9
+INV0084,2024-12-05,Brian Cisneros,Female,Hyderabad,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,UPI,4.4
+INV0085,2025-03-27,Jacob Bowman,Male,Chennai,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,UPI,5.0
+INV0086,2024-12-17,Jamie Heath,Male,Delhi,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Card,3.1
+INV0087,2024-12-21,Andres Rangel,Female,Delhi,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Card,3.7
+INV0088,2025-03-08,Jesse Robinson,Female,Hyderabad,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Card,4.6
+INV0089,2024-12-05,Juan Rodriguez,Male,Hyderabad,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,UPI,3.5
+INV0090,2025-03-17,Mrs. Amber Wilson PhD,Female,Chennai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,4.0
+INV0091,2025-03-25,Miss Nancy Wood MD,Male,Chennai,P2003,MacBook Air,Laptop,3.0,95000,285000.0,UPI,3.4
+INV0092,2025-01-11,Mark Marshall,Male,Hyderabad,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,Cash,3.5
+INV0093,2024-11-27,Eric Houston,Male,Mumbai,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,UPI,4.1
+INV0094,2025-01-14,Sherry Palmer,Female,Bangalore,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,UPI,4.9
+INV0095,2024-11-21,Matthew Martin,Male,Bangalore,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Cash,3.3
+INV0096,2024-11-26,Michael Murphy DVM,Female,Hyderabad,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,UPI,3.9
+INV0097,2025-05-04,Philip Owens,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Cash,3.3
+INV0098,2025-03-31,Adam Ferguson,Female,Chennai,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Wallet,3.7
+INV0099,2025-04-02,Kimberly King,Female,Jaipur,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,UPI,4.9
+INV0100,2025-01-27,Alex Sims,Male,Bangalore,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,Card,3.6
+INV0101,2025-04-25,Dr. Brittany Ramsey,Female,Pune,P2003,MacBook Air,Laptop,1.0,95000,95000.0,UPI,3.5
+INV0102,2025-04-27,Nathan Odonnell,Female,Chennai,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Cash,4.1
+INV0103,2025-04-10,Kimberly Jordan,Male,Kolkata,P1001,Samsung M14,Mobile,2.0,14000,28000.0,Cash,3.1
+INV0104,2025-03-24,Luis Graves,Male,Jaipur,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Wallet,5.0
+INV0105,2025-04-21,Linda Brady,Female,Hyderabad,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Cash,4.8
+INV0106,2024-11-21,Melanie Alvarez,Male,Bangalore,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Cash,5.0
+INV0107,2025-01-15,Amanda Peterson,Female,Bangalore,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Wallet,4.9
+INV0108,2025-02-26,Joshua Mccann,Male,Chennai,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,UPI,4.6
+INV0109,2025-05-06,Timothy Grant,Female,Delhi,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Wallet,3.8
+INV0110,2024-12-29,Andrew Burns,Male,Jaipur,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,UPI,3.8
+INV0111,2024-12-29,Lindsey Powell,Male,Jaipur,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Cash,3.1
+INV0112,2025-03-22,Amy Johnson,Female,Kolkata,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Cash,4.5
+INV0113,2024-11-19,James Bauer,Female,Jaipur,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Card,4.7
+INV0114,2024-12-24,Jennifer Turner,Male,Kolkata,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Card,4.9
+INV0115,2025-02-24,Nicole Rios,Female,Pune,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,UPI,3.8
+INV0116,2024-11-27,Lisa Romero,Female,Chennai,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Cash,4.3
+INV0117,2025-05-06,Mark Ramos,Male,Chennai,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Cash,4.0
+INV0118,2025-01-27,Jordan Oconnor,Female,Pune,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Card,3.5
+INV0119,2025-02-16,Kathleen Murphy,Female,Delhi,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,Cash,4.0
+INV0120,2025-03-24,Andrew Barber MD,Male,Pune,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,UPI,4.7
+INV0121,2024-12-19,Brian Kelly,Male,Jaipur,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Wallet,4.3
+INV0122,2025-01-16,Amanda Clarke DVM,Male,Bangalore,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Card,3.6
+INV0123,2025-01-26,Brianna Stein,Male,Bangalore,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,UPI,4.7
+INV0124,2024-12-20,Jessica Fuller,Male,Pune,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Card,3.5
+INV0125,2025-01-03,Micheal Gallegos,Female,Bangalore,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Cash,4.2
+INV0126,2025-01-04,James Lane,Female,Mumbai,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Cash,4.5
+INV0127,2025-03-28,Kyle Hicks,Male,Delhi,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Cash,3.7
+INV0128,2025-03-03,Erin Cook,Male,Jaipur,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Cash,3.7
+INV0129,2025-01-26,Brandy Farmer,Female,Kolkata,P1001,Samsung M14,Mobile,3.0,14000,42000.0,UPI,3.3
+INV0130,2024-12-27,Adam Shepherd,Male,Delhi,P1002,iPhone 14,Mobile,1.0,75000,75000.0,UPI,3.1
+INV0131,2025-02-06,Nicole Jones,Male,Mumbai,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Card,4.5
+INV0132,2025-05-10,Brandon Salazar,Female,Jaipur,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Cash,3.2
+INV0133,2025-01-16,Wayne Pena,Female,Delhi,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,UPI,3.1
+INV0134,2025-03-02,Diana Bowen,Female,Hyderabad,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,Wallet,4.7
+INV0135,2025-05-08,Joseph Calderon,Female,Pune,P1001,Samsung M14,Mobile,3.0,14000,42000.0,UPI,3.1
+INV0136,2025-03-10,Danielle Castillo,Male,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,UPI,3.3
+,2024-11-21,William Bullock,Male,Kolkata,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,UPI,3.3
+INV0138,2025-03-06,Robin Hensley,Male,Bangalore,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Cash,4.7
+INV0139,2025-01-25,Terry Davidson,Female,Delhi,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Cash,4.3
+INV0140,2025-05-05,Kathleen Alvarado,Female,Chennai,P1001,Samsung M14,Mobile,5.0,14000,70000.0,Cash,4.1
+INV0141,2024-12-29,Christina Trujillo,Male,Jaipur,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Card,3.2
+INV0142,2025-01-25,Zachary Martinez,Male,Mumbai,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Wallet,3.4
+INV0143,2024-12-25,Stephen Schroeder,Male,Delhi,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Wallet,4.8
+INV0144,2025-01-04,John Collier,Male,Hyderabad,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,UPI,3.7
+INV0145,2024-12-09,Debbie Nguyen,Male,Pune,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Cash,3.2
+INV0146,2025-04-16,Susan Allen,Male,Chennai,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,Cash,3.3
+INV0147,2025-01-06,Kevin Garcia,Female,Bangalore,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,UPI,4.9
+INV0148,2025-03-10,Luis Rose,Male,Bangalore,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Card,4.0
+INV0149,2025-01-29,Thomas Perry,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Cash,3.6
+INV0150,2025-03-02,Peter Mejia,Female,Jaipur,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,3.0
+INV0151,2024-12-15,Mrs. Amanda Sweeney DDS,Male,Hyderabad,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Card,4.1
+INV0152,2025-03-20,Joe Williams,Male,Chennai,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Cash,3.5
+INV0153,2025-04-24,Amanda Johnson,Male,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,UPI,3.3
+INV0154,2024-12-06,Rachel Leblanc,Female,Kolkata,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,UPI,3.5
+INV0155,2025-01-24,Juan Smith,Female,Pune,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Card,3.2
+INV0156,2025-02-25,Jennifer Lewis,Female,Mumbai,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,UPI,3.5
+INV0157,2025-05-16,Duane Mcgee,Female,Mumbai,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Cash,4.4
+INV0158,2024-12-07,Lisa Lane,Female,Chennai,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Cash,4.8
+INV0159,2025-02-17,Stephanie Johnson,Female,Delhi,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,UPI,4.8
+INV0160,2025-01-29,Erika Cole,Male,Jaipur,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Card,3.2
+INV0161,2024-12-11,Crystal Powell,Male,Delhi,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Cash,4.9
+INV0162,2025-05-09,Anna Reeves,Female,Mumbai,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Wallet,3.6
+INV0163,2025-05-04,Derek Wood,Female,Jaipur,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Card,4.4
+INV0164,2025-04-30,Bryce Turner,Female,Hyderabad,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Card,4.8
+INV0165,2025-01-03,Jacob Wilson,Female,Jaipur,P1001,Samsung M14,Mobile,1.0,14000,14000.0,UPI,4.6
+INV0166,2025-03-08,Alexandria Herrera,Female,Mumbai,P1001,Samsung M14,Mobile,1.0,14000,14000.0,UPI,4.5
+INV0167,2025-01-10,Jonathan Webb,Female,Mumbai,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Cash,4.3
+INV0168,2025-02-26,Jacqueline Reid,Male,Bangalore,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Card,3.9
+INV0169,2025-03-07,Craig Richards,Male,Mumbai,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Wallet,4.1
+INV0170,2025-01-30,Anthony Martinez,Male,Bangalore,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,UPI,3.4
+INV0171,2024-11-16,William Jackson,Female,Kolkata,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Card,3.4
+INV0172,2024-12-23,Stephanie Mack,Male,Mumbai,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,UPI,3.6
+INV0173,2025-04-04,Felicia Collins,Male,Chennai,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Wallet,3.1
+INV0174,2025-04-05,Paula Gibson,Female,Mumbai,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Card,4.3
+INV0175,2025-02-09,Victoria Rodriguez,Male,Delhi,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,Wallet,4.8
+INV0176,2025-01-29,Zachary Lewis,Female,Delhi,P1002,iPhone 14,Mobile,3.0,75000,225000.0,UPI,4.5
+INV0177,2025-03-16,Joe Ross,Female,Hyderabad,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Wallet,4.0
+INV0178,2025-01-28,Veronica Price,Female,Delhi,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Card,4.1
+INV0179,2024-12-30,Melinda Wilson,Male,Hyderabad,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Card,3.9
+INV0180,2025-05-16,Brian Rivera,Female,Kolkata,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Card,4.6
+INV0181,2025-02-28,Anthony Luna,Male,Hyderabad,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Wallet,4.0
+INV0182,2025-03-26,Ashley Garza,Male,Bangalore,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Wallet,4.9
+INV0183,2025-04-17,John Atkinson,Male,Pune,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Wallet,3.1
+INV0184,2024-12-19,Tanner Esparza,Female,Chennai,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,Wallet,3.5
+INV0185,2024-12-06,Mariah Wilson,Male,Pune,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Cash,4.7
+INV0186,2025-03-02,David Lopez,Female,Kolkata,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,UPI,4.8
+INV0187,2025-01-29,Kurt Hamilton,Male,Bangalore,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Card,4.3
+INV0188,2024-12-01,Rebecca Chen,Female,Mumbai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,UPI,4.7
+INV0189,2024-12-12,Randy Pittman,Male,Chennai,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Wallet,4.7
+INV0190,2024-11-16,Virginia Clark,Male,Chennai,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Card,3.7
+INV0191,2025-04-04,Kathleen Mcdaniel,Male,Kolkata,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Cash,4.1
+INV0192,2025-04-09,Jennifer Smith,Male,Hyderabad,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Wallet,3.6
+INV0193,2025-03-02,Lisa Daniels,Male,Bangalore,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Cash,4.5
+INV0194,2025-01-20,Raymond Hart,Female,Mumbai,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Card,4.1
+INV0195,2025-03-18,Alexis Lopez,Male,Delhi,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Wallet,4.1
+INV0196,2025-01-19,John Murphy,Female,Pune,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Card,3.8
+INV0197,2025-04-16,Dennis Sanders,Male,Delhi,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Card,3.3
+INV0198,2025-05-08,Deborah Thomas,Male,Hyderabad,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Card,3.4
+INV0199,2024-12-08,Whitney Zimmerman,Male,Bangalore,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Wallet,4.1
+INV0200,2025-03-27,Austin Carr,Female,Chennai,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,UPI,3.7
+INV0201,2025-03-12,Kelly Graham,Male,Delhi,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Cash,4.2
+INV0202,2025-01-14,Miguel Sanders,Male,Delhi,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Card,4.1
+INV0203,2025-02-05,Bailey Smith,Male,Kolkata,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Card,3.6
+INV0204,2025-02-12,Darrell Miller,Male,Pune,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Card,3.3
+INV0205,2025-03-07,Gregory Price,Female,Bangalore,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Cash,4.3
+INV0206,2025-04-17,Anthony Hendrix,Male,Delhi,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Wallet,3.2
+INV0207,2025-04-10,Julie Collins,Female,Mumbai,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,UPI,4.9
+INV0208,2025-05-02,Kevin Morrison,Female,Bangalore,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Cash,4.6
+INV0209,2025-01-01,Javier Green,Male,Bangalore,P1001,Samsung M14,Mobile,5.0,14000,70000.0,Wallet,4.2
+INV0210,2025-01-28,Mark Stone,Female,Pune,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Cash,3.7
+INV0211,2025-01-09,Crystal Gonzalez,Female,Kolkata,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Cash,4.6
+INV0212,2024-12-18,Monique Francis,Male,Chennai,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Wallet,3.7
+INV0213,2025-01-03,Karen Mills,Female,Kolkata,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Card,4.4
+INV0214,2025-02-18,Jeffrey Marsh,Female,Bangalore,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,3.6
+INV0215,2025-03-22,Jessica Wallace,Female,Pune,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Wallet,3.3
+INV0216,2025-04-18,Ellen Velazquez,Male,Bangalore,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Card,4.2
+INV0217,2025-01-28,Robert Harrington,Male,Mumbai,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Wallet,3.1
+INV0218,2025-03-04,Henry Lee,Male,Bangalore,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Cash,3.8
+INV0219,2024-12-27,William Smith,Female,Hyderabad,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,UPI,4.4
+INV0220,2025-02-05,Alyssa Kelley,Male,Delhi,P2003,MacBook Air,Laptop,1.0,95000,95000.0,UPI,4.3
+INV0221,2025-01-10,Jonathan Burns,Female,Mumbai,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Card,3.8
+INV0222,2025-04-12,Ryan Wilson,Female,Pune,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Cash,4.7
+INV0223,2025-03-09,April Davis,Female,Bangalore,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Card,3.0
+INV0224,2025-03-24,Carmen Brewer,Male,Bangalore,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Card,4.0
+INV0225,2025-02-23,Manuel Nichols,Male,Mumbai,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Card,3.0
+INV0226,2025-04-06,Wendy Fitzgerald,Male,Bangalore,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Cash,4.4
+INV0227,2024-12-13,Hailey Rodriguez,Female,Chennai,P1001,Samsung M14,Mobile,5.0,14000,70000.0,UPI,4.1
+INV0228,2025-03-19,Kelly Gonzalez,Male,Jaipur,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,3.2
+INV0229,2024-12-07,Erica Smith,Female,Delhi,P1002,iPhone 14,Mobile,4.0,75000,300000.0,UPI,4.7
+INV0230,2024-12-20,Christopher Williams,Male,Jaipur,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Wallet,3.3
+INV0231,2025-04-04,Mr. Randall Neal,Male,Delhi,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Wallet,4.5
+INV0232,2024-11-19,Michelle Hughes,Male,Delhi,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,UPI,4.6
+INV0233,2025-04-12,Nicole Rivera,Female,Bangalore,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Wallet,4.0
+INV0234,2025-05-15,Francis Jones,Male,Jaipur,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Card,3.2
+INV0235,2025-01-30,Charles Martinez,Male,Chennai,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Cash,3.3
+INV0236,2025-03-01,Sheila Hart,Male,Kolkata,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,UPI,3.9
+INV0237,2025-01-12,David Nolan,Female,Chennai,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Card,4.7
+INV0238,2024-11-28,Kimberly Johnson,Female,Mumbai,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,UPI,3.9
+INV0239,2025-04-20,Eric Wilson,Female,Kolkata,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Cash,3.2
+INV0240,2025-01-29,Caitlin Brown,Male,Mumbai,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Cash,3.6
+INV0241,2025-02-18,Maxwell Hodges,Male,Hyderabad,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,UPI,3.7
+INV0242,2025-05-01,Scott Edwards,Female,Kolkata,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Card,3.4
+INV0243,2025-02-20,Tristan Clark,Male,Bangalore,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,UPI,4.5
+INV0244,2025-01-02,Brenda Hughes,Male,Jaipur,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,UPI,4.5
+INV0245,2025-03-18,Robert Fox,Female,Chennai,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Card,3.5
+INV0246,2025-03-22,Colin Gomez,Male,Jaipur,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Cash,4.5
+INV0247,2025-04-10,Reginald Woods,Male,Mumbai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,UPI,4.2
+INV0248,2024-12-14,Richard Baker,Female,Delhi,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,UPI,3.3
+INV0249,2025-02-05,Alexandra Ford,Male,Pune,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Wallet,4.3
+INV0250,2025-01-01,Matthew Cummings,Female,Kolkata,P2003,MacBook Air,Laptop,5.0,95000,475000.0,UPI,3.7
+INV0251,2025-05-09,Ryan Stewart,Female,Jaipur,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,UPI,4.3
+INV0252,2024-12-10,Bridget Williams,Female,Hyderabad,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Wallet,3.7
+INV0253,2024-12-29,John Orr,Male,Chennai,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Card,4.7
+INV0254,2025-02-18,Jacqueline Gray,Male,Chennai,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Cash,4.2
+INV0255,2025-03-04,Joshua Sharp,Male,Hyderabad,P2003,MacBook Air,Laptop,1.0,95000,95000.0,UPI,3.5
+INV0256,2025-01-21,Andre Moore,Female,Kolkata,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,UPI,3.8
+INV0257,2025-03-08,Tiffany Jones,Female,Kolkata,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Wallet,3.7
+INV0258,2024-11-28,Brian Harris,Female,Kolkata,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Wallet,3.2
+INV0259,2024-12-26,Mark Cummings,Female,Kolkata,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,5.0
+INV0260,2025-01-08,John Stephens,Female,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,4.6
+INV0261,2025-04-14,Wendy Banks,Male,Delhi,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Wallet,3.6
+INV0262,2025-03-13,Jeffery Kennedy,Male,Chennai,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Card,4.7
+INV0263,2025-01-07,Timothy Hall,Female,Mumbai,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Cash,4.8
+INV0264,2024-12-13,Alexis Hamilton,Male,Kolkata,P1002,iPhone 14,Mobile,1.0,75000,75000.0,UPI,5.0
+INV0265,2025-04-22,Christopher Shepherd,Female,Chennai,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Cash,4.3
+INV0266,2025-03-04,Emily Anderson,Male,Pune,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Card,3.9
+INV0267,2025-05-05,Johnny Davis,Male,Mumbai,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Card,4.7
+INV0268,2025-01-29,Andrew Lee,Female,Kolkata,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,UPI,4.0
+INV0269,2024-12-18,Robert Boyd,Male,Chennai,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Cash,4.5
+INV0270,2025-04-30,John Bailey,Female,Delhi,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Card,3.2
+INV0271,2025-03-14,Lynn Garrett,Female,Delhi,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Wallet,4.6
+INV0272,2025-02-01,Michael Hansen,Female,Kolkata,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Wallet,3.3
+INV0273,2025-02-02,Gregory Myers,Male,Pune,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,UPI,3.9
+INV0274,2025-02-25,Timothy Wilson,Female,Chennai,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Card,3.3
+INV0275,2025-01-30,Gloria Maddox,Male,Delhi,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,UPI,4.2
+INV0276,2024-11-21,Paul Rodriguez,Male,Jaipur,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,3.5
+INV0277,2025-05-16,Cynthia Nelson,Female,Kolkata,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Card,3.5
+INV0278,2025-03-04,Steven Joseph,Male,Pune,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Card,4.5
+INV0279,2025-03-15,Mr. Colin Jones,Male,Bangalore,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Card,4.5
+INV0280,2025-05-02,Madison Robinson,Male,Mumbai,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Card,3.5
+,2024-11-23,Dennis Sanford,Female,Kolkata,P2003,MacBook Air,Laptop,4.0,95000,380000.0,UPI,3.7
+INV0282,2024-11-30,Maria Nelson,Male,Kolkata,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Wallet,3.0
+INV0283,2025-04-11,Robert Gordon,Female,Pune,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,Cash,3.2
+INV0284,2025-04-05,Debbie Harris,Male,Bangalore,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Wallet,4.9
+INV0285,2025-01-15,Christopher Horn,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Wallet,4.9
+INV0286,2025-02-03,Victoria Sanford,Female,Delhi,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Wallet,5.0
+INV0287,2025-02-19,Katherine Edwards,Female,Kolkata,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Card,4.5
+INV0288,2024-12-15,Bradley Adams,Male,Delhi,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Cash,4.8
+INV0289,2025-04-11,Edward Yates,Male,Jaipur,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,UPI,4.6
+INV0290,2024-12-03,Karen Sparks,Male,Mumbai,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Wallet,3.2
+INV0291,2025-03-10,Judith Rivera,Female,Pune,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Wallet,4.5
+INV0292,2025-04-21,Brian Trujillo,Female,Delhi,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,UPI,4.3
+INV0293,2024-12-31,Alicia Morgan,Female,Mumbai,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,UPI,3.7
+INV0294,2025-03-14,Kristi Ford,Female,Jaipur,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,3.9
+INV0295,2025-03-12,Denise Cochran,Male,Chennai,P1001,Samsung M14,Mobile,3.0,14000,42000.0,UPI,3.9
+INV0296,2024-12-30,John Escobar,Female,Hyderabad,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,4.8
+INV0297,2025-05-05,Jennifer Mora,Female,Mumbai,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Wallet,3.6
+INV0298,2025-04-02,Jose Howell,Female,Delhi,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Wallet,3.0
+INV0299,2025-05-03,Kyle Davidson,Female,Pune,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,Wallet,4.1
+INV0300,2025-01-10,Kathleen Stewart,Female,Mumbai,P1001,Samsung M14,Mobile,5.0,14000,70000.0,Wallet,3.6
+INV0301,2024-12-31,Jessica Shelton,Female,Kolkata,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Card,4.8
+INV0302,2025-01-30,Andrew Holloway,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Wallet,4.6
+INV0303,2025-01-30,Misty Frey,Female,Hyderabad,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Wallet,3.9
+INV0304,2024-11-16,Gary Cox,Female,Pune,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Card,4.4
+INV0305,2024-12-11,Sandra Johnson,Male,Kolkata,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,UPI,4.2
+INV0306,2025-02-26,Jesse Peterson,Female,Chennai,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,UPI,4.2
+INV0307,2024-12-13,Matthew Petersen,Female,Chennai,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,Cash,3.7
+INV0308,2025-02-21,Rebecca Payne,Female,Pune,P1001,Samsung M14,Mobile,1.0,14000,14000.0,UPI,3.9
+INV0309,2025-05-07,Stephen Booker,Male,Bangalore,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Wallet,3.2
+INV0310,2024-11-27,Karen Cooke,Female,Hyderabad,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Cash,4.4
+INV0311,2024-12-18,Lynn Burns,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Wallet,3.5
+INV0312,2025-04-11,James Wood,Female,Hyderabad,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Card,4.7
+INV0313,2024-12-02,Justin Kelly,Male,Bangalore,P1001,Samsung M14,Mobile,1.0,14000,14000.0,Card,4.2
+INV0314,2024-11-23,Brad Martin,Female,Hyderabad,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Cash,4.0
+INV0315,2025-01-28,Alexandria Brown,Male,Chennai,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,UPI,4.9
+INV0316,2024-12-27,Katelyn Johnson,Female,Bangalore,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,UPI,3.8
+INV0317,2024-12-09,Connie Mcclain,Female,Kolkata,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Card,4.4
+INV0318,2025-03-18,Dr. Amanda Bond,Male,Chennai,P1001,Samsung M14,Mobile,5.0,14000,70000.0,UPI,3.7
+INV0319,2025-02-28,Mark Cole,Male,Mumbai,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Cash,3.1
+INV0320,2025-03-17,Melanie Daugherty,Male,Mumbai,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,,4.8
+INV0321,2024-11-21,George Melendez,Male,Bangalore,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Cash,3.7
+INV0322,2025-04-04,David Wagner,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Cash,3.6
+INV0323,2025-04-23,Lauren Kaiser,Female,Delhi,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,UPI,3.6
+INV0324,2025-04-01,Amy Reynolds,Male,Bangalore,P1002,iPhone 14,Mobile,2.0,75000,150000.0,UPI,4.7
+INV0325,2025-03-14,Katherine Gutierrez,Male,Mumbai,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,3.2
+INV0326,2024-11-23,Mrs. Sara Everett PhD,Female,Jaipur,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,UPI,4.7
+INV0327,2025-04-24,Joel Steele,Female,Jaipur,P3001,Logitech Mouse,Accessories,1.0,700,700.0,UPI,3.2
+INV0328,2025-05-08,William Black DVM,Female,Delhi,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Cash,3.8
+INV0329,2025-02-10,Nichole Cole,Male,Kolkata,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Card,4.7
+INV0330,2025-02-15,Ryan Newton,Male,Delhi,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Cash,4.2
+INV0331,2025-02-27,Sarah Barker,Male,Jaipur,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Wallet,3.3
+INV0332,2025-04-29,Marc Shields,Male,Kolkata,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Card,4.2
+INV0333,2025-01-10,David Buck,Female,Kolkata,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Cash,4.3
+INV0334,2025-03-01,Ryan Vincent,Female,Hyderabad,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,UPI,3.9
+INV0335,2025-03-23,Kayla Martinez,Female,Pune,P1001,Samsung M14,Mobile,2.0,14000,28000.0,Card,3.0
+INV0336,2025-05-07,Jamie Barnes,Female,Chennai,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Cash,3.6
+INV0337,2024-11-30,Kirsten Ortega,Female,Delhi,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,Cash,3.1
+INV0338,2024-12-27,April Bryant,Male,Kolkata,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Cash,3.3
+INV0339,2025-03-13,David Lynn,Male,Mumbai,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Cash,4.3
+INV0340,2025-02-02,Dawn Gross,Male,Chennai,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Wallet,3.1
+INV0341,2025-05-01,Dr. Austin Shepherd,Male,Hyderabad,P1001,Samsung M14,Mobile,2.0,14000,28000.0,Card,4.2
+INV0342,2025-03-30,Megan Martin,Male,Pune,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Cash,3.7
+INV0343,2025-02-27,Lisa Burke,Male,Hyderabad,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,4.8
+INV0344,2024-12-27,Justin Williams,Male,Delhi,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Wallet,3.5
+INV0345,2025-01-07,Howard Lindsey,Male,Mumbai,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Card,3.1
+INV0346,2025-02-16,Michael Hall,Female,Delhi,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Wallet,4.8
+INV0347,2024-12-29,Jordan Hubbard,Male,Delhi,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Card,4.0
+INV0348,2025-01-16,Jordan Johnson,Female,Pune,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Cash,4.7
+INV0349,2025-01-23,Kim Ramirez,Female,Pune,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Card,4.3
+INV0350,2024-12-19,James Anderson,Male,Bangalore,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Card,3.8
+INV0351,2025-01-02,Michelle Vaughan,Female,Delhi,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,UPI,4.9
+INV0352,2025-02-13,Cathy Taylor,Female,Hyderabad,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Cash,3.5
+INV0353,2025-01-24,Brittany Ward,Female,Delhi,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Cash,4.8
+INV0354,2025-04-15,Tammy Obrien,Male,Delhi,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Card,3.4
+INV0355,2025-02-23,Tammy Ray,Male,Pune,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Cash,4.8
+INV0356,2024-12-13,Rebecca Frederick,Male,Pune,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,UPI,3.0
+INV0357,2025-03-05,Matthew Caldwell,Male,Mumbai,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Cash,3.6
+INV0358,2025-01-31,Lisa Torres,Female,Hyderabad,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Card,4.7
+INV0359,2025-02-20,Dan Smith,Male,Mumbai,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Cash,4.3
+INV0360,2024-11-18,Caroline Golden,Female,Mumbai,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,UPI,4.8
+INV0361,2025-05-16,Christopher Mendoza,Male,Bangalore,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,4.6
+INV0362,2024-11-28,Leslie Novak,Male,Delhi,P2003,MacBook Air,Laptop,4.0,95000,380000.0,UPI,4.7
+INV0363,2025-01-05,Heather Evans,Female,Bangalore,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,4.6
+INV0364,2025-02-23,Samuel Johnson,Male,Chennai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Card,3.6
+INV0365,2024-12-01,Jeffrey Fry,Female,Jaipur,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,UPI,3.3
+INV0366,2025-04-02,Daniel Harris Jr.,Female,Bangalore,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Cash,3.3
+INV0367,2025-03-15,Justin Burnett PhD,Male,Bangalore,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,UPI,3.7
+INV0368,2025-02-08,Alexandria Mullen,Female,Mumbai,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,UPI,3.0
+INV0369,2024-12-23,Lauren Cox,Female,Mumbai,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Wallet,4.4
+INV0370,2025-03-11,Laura Patton,Female,Hyderabad,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Cash,4.3
+INV0371,2025-01-29,Katherine Sanders,Male,Delhi,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Cash,4.9
+INV0372,2025-02-26,Michelle Romero,Male,Bangalore,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Cash,3.1
+INV0373,2025-02-04,Michael Hunter,Female,Kolkata,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Cash,3.7
+INV0374,2025-02-09,Melissa Davis,Female,Bangalore,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Card,3.5
+INV0375,2025-03-09,Kelsey Romero,Female,Mumbai,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Card,3.4
+INV0376,2025-03-07,Emily Mathis,Female,Chennai,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,UPI,4.9
+INV0377,2024-12-25,Julian Leon,Male,Chennai,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Cash,3.5
+INV0378,2025-02-13,Donald Booker,Male,Chennai,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Card,4.9
+INV0379,2025-01-06,Ryan Perkins,Male,Chennai,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,4.2
+INV0380,2025-02-28,Cathy Romero,Female,Chennai,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Wallet,4.9
+INV0381,2024-12-09,Shannon Olson,Female,Hyderabad,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Card,3.1
+INV0382,2024-12-19,Eric Nguyen,Male,Chennai,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Cash,4.0
+INV0383,2024-12-19,Cameron Patton,Male,Kolkata,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,UPI,3.4
+INV0384,2024-12-17,Angela Crawford,Female,Kolkata,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Wallet,3.3
+INV0385,2025-05-15,Lisa Reynolds DVM,Male,Hyderabad,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,UPI,3.7
+INV0386,2025-02-24,Mario Marshall,Male,Bangalore,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Cash,3.5
+INV0387,2025-02-22,Bethany Holmes,Male,Kolkata,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Cash,4.0
+INV0388,2024-12-25,Brooke Rodriguez,Female,Mumbai,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,UPI,3.5
+INV0389,2025-04-25,Katherine Meyers,Male,Chennai,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,UPI,3.6
+INV0390,2025-04-05,Anthony Rivera,Female,Bangalore,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Card,3.8
+INV0391,2025-01-24,Logan Chen,Male,Jaipur,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,UPI,4.6
+INV0392,2025-03-21,Tracy Mitchell,Male,Hyderabad,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Cash,4.1
+INV0393,2025-02-12,Jeremy Rojas,Female,Mumbai,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Card,3.1
+INV0394,2025-05-13,Kelly Yang,Female,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,4.8
+INV0395,2025-01-28,Patrick Schroeder,Female,Hyderabad,P1003,Redmi Note 12,Mobile,5.0,13000,65000.0,Cash,3.8
+INV0396,2025-02-09,Molly Kelly,Female,Bangalore,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,UPI,4.4
+INV0397,2024-11-17,Ronald Howard,Male,Bangalore,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,UPI,3.9
+INV0398,2025-03-05,Elizabeth Phillips,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Wallet,4.8
+INV0399,2025-03-01,Anthony Velasquez,Female,Delhi,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Cash,4.9
+INV0400,2025-03-25,Shelley Gardner DDS,Female,Kolkata,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Cash,4.2
+INV0401,2024-12-28,Jesus Newton,Male,Jaipur,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Wallet,4.0
+INV0402,2024-11-30,Brittany Garcia,Male,Delhi,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Wallet,4.3
+INV0403,2025-04-08,Michael Davis,Male,Hyderabad,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,Cash,3.5
+INV0404,2025-03-16,Jason Gross,Female,Delhi,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,UPI,3.6
+INV0405,2025-02-02,Mr. Isaac Pratt DDS,Male,Mumbai,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Cash,4.1
+INV0406,2025-02-12,Alexandra Jenkins,Female,Chennai,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,UPI,3.2
+INV0407,2024-12-02,Carolyn Palmer,Female,Bangalore,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,Cash,3.5
+INV0408,2025-02-25,Douglas Moore,Female,Delhi,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Card,3.3
+INV0409,2025-03-13,Patrick Jacobs,Female,Pune,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Cash,3.7
+INV0410,2024-12-12,Terry Gonzales,Female,Mumbai,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Card,3.5
+INV0411,2025-04-01,Rebekah Myers,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Wallet,4.2
+INV0412,,Stephanie Garcia,Male,Delhi,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Wallet,4.5
+INV0413,2025-05-14,Jessica Stafford,Male,Bangalore,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Card,4.7
+INV0414,2025-01-05,Jennifer Ramirez,Male,Delhi,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,3.3
+INV0415,2025-03-19,Roberta Moreno,Female,Chennai,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Cash,4.1
+INV0416,2024-12-12,Kathleen Mccall,Female,Bangalore,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,3.7
+INV0417,2025-04-14,Justin Walker,Female,Chennai,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,3.1
+INV0418,2025-03-25,Ms. Laura Morris,Female,Kolkata,P1001,Samsung M14,Mobile,5.0,14000,70000.0,Wallet,3.2
+INV0419,2025-02-19,Lisa Young,Male,Pune,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Cash,3.9
+INV0420,2025-05-02,Michael Hill,Male,Hyderabad,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Wallet,3.8
+INV0421,2024-12-15,Kimberly Pierce,Male,Bangalore,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,UPI,4.1
+INV0422,2024-12-25,Rachel Adams,Male,Kolkata,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,UPI,4.8
+INV0423,2024-12-02,Yvonne Young,Male,Pune,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,UPI,4.4
+INV0424,2025-02-08,Shannon Baker,Male,Jaipur,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Cash,4.6
+INV0425,2025-05-10,William Garcia,Male,Pune,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Wallet,3.8
+INV0426,2025-01-02,Melissa Gonzalez,Female,Mumbai,P1001,Samsung M14,Mobile,2.0,14000,28000.0,UPI,3.1
+INV0427,2024-12-13,Joshua Horn,Male,Hyderabad,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Card,3.7
+INV0428,2025-02-25,Madison Foster,Female,Hyderabad,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Wallet,3.9
+INV0429,2025-03-10,Scott Dixon,Male,Mumbai,P1001,Samsung M14,Mobile,4.0,14000,56000.0,UPI,3.5
+INV0430,2025-03-06,Joseph Benson,Male,Bangalore,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Card,4.4
+INV0431,2025-01-04,Craig Hodges,Male,Delhi,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Card,3.5
+INV0432,2025-02-10,Danielle Brown,Female,Chennai,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Cash,3.5
+INV0433,2025-02-26,Ronald Parks,Male,Hyderabad,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,4.9
+INV0434,2025-02-10,Brandon Anderson,Male,Delhi,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Wallet,3.5
+INV0435,2024-11-20,Peter Johnson,Female,Jaipur,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,4.8
+INV0436,2025-03-04,Melissa Weaver,Female,Delhi,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,UPI,3.6
+INV0437,2024-12-19,Bradley Thomas,Female,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,UPI,4.9
+INV0438,2024-11-25,Mason Peterson,Male,Mumbai,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,Cash,3.3
+INV0439,2024-11-30,Ryan Guerrero,Female,Jaipur,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,UPI,4.2
+INV0440,2025-05-15,Sean Cohen,Male,Hyderabad,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Card,4.8
+INV0441,2025-04-22,Matthew Hall,Male,Kolkata,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Wallet,3.1
+INV0442,2025-02-04,Derek David,Female,Delhi,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,UPI,3.6
+INV0443,2024-12-15,Timothy Roach,Female,Bangalore,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Card,3.7
+INV0444,2024-12-15,Jennifer Mejia,Male,Hyderabad,P1001,Samsung M14,Mobile,1.0,14000,14000.0,Card,4.0
+INV0445,2025-03-16,Kimberly Salas,Female,Jaipur,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Card,3.5
+INV0446,2025-03-22,Kathleen Nelson,Male,Pune,P2003,MacBook Air,Laptop,2.0,95000,190000.0,UPI,3.9
+INV0447,2024-11-28,Karen James,Female,Chennai,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Cash,4.2
+INV0448,2025-03-25,Bruce King,Male,Chennai,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Wallet,3.6
+INV0449,2024-12-23,Diana Ferguson,Male,Hyderabad,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Card,4.2
+INV0450,2025-04-13,Benjamin Payne MD,Male,Pune,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Wallet,4.8
+INV0451,2025-03-29,Dawn Miles,Female,Kolkata,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Card,3.0
+INV0452,2025-03-14,Carrie Martinez,Female,Bangalore,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,UPI,4.6
+INV0453,2024-12-21,Jeffrey Gomez,Female,Hyderabad,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Wallet,3.6
+INV0454,2025-04-14,Suzanne Donovan,Female,Mumbai,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Wallet,3.3
+INV0455,2025-03-13,Sandy Hicks,Female,Kolkata,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Card,3.1
+INV0456,2025-04-05,Jessica Marquez,Female,Pune,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,UPI,4.1
+INV0457,2025-03-10,Justin Wilson,Female,Kolkata,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,4.7
+INV0458,2025-03-13,Stephen Johnson,Male,Chennai,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Card,4.3
+INV0459,2024-12-31,Tammy Gutierrez,Male,Hyderabad,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,Wallet,3.5
+INV0460,2025-04-07,Ann Thomas,Female,Pune,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,UPI,3.9
+INV0461,2025-03-18,Meagan Steele,Female,Pune,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Card,4.9
+INV0462,2025-05-15,William Tucker,Male,Bangalore,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,UPI,4.2
+INV0463,2025-03-10,William Jones,Female,Jaipur,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Card,4.7
+INV0464,2024-11-28,Kelly Moreno,Male,Mumbai,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Wallet,3.4
+INV0465,2025-01-26,Katrina Fernandez,Male,Jaipur,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,3.4
+INV0466,2025-01-23,Christopher Stein,Male,Hyderabad,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Wallet,3.3
+INV0467,2025-03-27,Nicholas Todd,Female,Bangalore,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Wallet,3.9
+INV0468,2025-02-21,Shelby Mccarthy,Male,Delhi,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Card,4.8
+INV0469,2025-03-01,Patricia Gray,Male,Bangalore,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,UPI,4.6
+INV0470,2025-01-24,Mark Lamb,Male,Bangalore,P2003,MacBook Air,Laptop,5.0,95000,475000.0,UPI,3.7
+INV0471,2024-12-31,Brittney Hutchinson,Male,Kolkata,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Cash,3.6
+INV0472,2024-12-12,Gina Wise,Male,Kolkata,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,4.4
+INV0473,2025-01-11,Christina Hernandez,Female,Kolkata,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,UPI,4.5
+INV0474,2025-02-27,Brian Griffin,Female,Chennai,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Card,4.8
+INV0475,2025-03-09,Aaron Serrano,Female,Hyderabad,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Wallet,3.5
+INV0476,2025-04-05,Charlotte Tanner,Female,Hyderabad,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,UPI,3.4
+INV0477,2025-05-11,James Jones,Female,Pune,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Cash,3.0
+INV0478,2024-12-29,Crystal Williams,Female,Mumbai,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Card,3.2
+INV0479,2025-04-06,Joseph Rollins,Male,Chennai,P1002,iPhone 14,Mobile,1.0,75000,75000.0,UPI,3.6
+INV0480,2025-05-15,Jeremy Harris,Female,Mumbai,P1001,Samsung M14,Mobile,1.0,14000,14000.0,UPI,3.9
+INV0481,2025-03-26,John Perez,Female,Jaipur,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Wallet,4.0
+INV0482,2025-02-25,Scott Brown,Female,Delhi,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Cash,4.7
+INV0483,2025-04-07,Kathleen Curtis,Female,Jaipur,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,UPI,3.5
+INV0484,2024-12-14,Frank Cooke,Male,Chennai,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,UPI,3.7
+INV0485,2025-02-26,Jessica Roberts,Male,Pune,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Card,4.2
+INV0486,2024-11-25,Brooke Miller,Male,Mumbai,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Cash,4.8
+INV0487,2025-05-16,Katrina Parker,Male,Jaipur,P1001,Samsung M14,Mobile,2.0,14000,28000.0,UPI,4.9
+INV0488,2025-03-08,Brandon Clark,Female,Mumbai,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Wallet,3.7
+INV0489,2025-04-12,Mary Taylor,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Card,4.4
+INV0490,2025-01-15,Douglas Garza,Female,Mumbai,P1002,iPhone 14,Mobile,5.0,75000,375000.0,UPI,3.6
+INV0491,2024-12-25,Andrew Hayes,Male,Jaipur,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Cash,4.3
+INV0492,2025-03-01,Jasmine Cruz,Male,Kolkata,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Card,4.4
+INV0493,2025-05-17,Stephanie Clark,Female,Bangalore,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Wallet,3.8
+INV0494,2025-03-23,Regina Rogers,Female,Jaipur,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Card,3.2
+INV0495,2025-04-14,Vanessa Johnson,Male,Delhi,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Cash,4.1
+INV0496,2025-04-16,Linda Hays,Male,Kolkata,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,Wallet,3.2
+INV0497,2025-05-02,Emily Moore,Female,Delhi,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Card,3.2
+INV0498,2024-12-13,Mallory Sellers,Male,Bangalore,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,3.2
+INV0499,2025-03-01,Stacy Ware,Male,Hyderabad,P2003,MacBook Air,Laptop,2.0,95000,190000.0,UPI,3.9
+INV0500,2025-02-01,Lauren Aguilar,Male,Bangalore,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,UPI,3.9
+INV0501,2025-03-15,Shannon Wright,Female,Kolkata,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,UPI,3.9
+INV0502,2024-12-08,Angela Campbell,Male,Mumbai,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Wallet,4.3
+INV0503,2025-03-26,Katherine Hughes,Female,Kolkata,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,UPI,3.8
+INV0504,2024-11-28,Christopher Smith,Female,Mumbai,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Card,3.5
+INV0505,2025-05-08,Ryan Clark,Male,Chennai,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Wallet,5.0
+INV0506,2025-04-17,Rebecca Arnold,Male,Pune,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Cash,4.9
+INV0507,2025-04-21,Joshua Smith,Male,Kolkata,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Cash,4.6
+INV0508,2025-01-01,William Thornton,Male,Delhi,P1001,Samsung M14,Mobile,2.0,14000,28000.0,Cash,4.6
+INV0509,2025-02-16,Christina Carr,Male,Hyderabad,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Card,4.3
+INV0510,2025-03-03,Jerry Jenkins,Female,Delhi,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,UPI,4.5
+INV0511,2025-04-03,Thomas Cooper,Female,Chennai,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Cash,4.2
+INV0512,2025-03-19,Amy Bryan,Male,Chennai,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,UPI,4.1
+INV0513,2025-05-17,Stephanie Avila,Male,Jaipur,P1002,iPhone 14,Mobile,3.0,75000,225000.0,UPI,4.4
+INV0514,2025-01-28,Jason Hernandez,Female,,P1001,Samsung M14,Mobile,1.0,14000,14000.0,Card,4.0
+INV0515,2025-02-17,Elizabeth Gardner,Male,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,4.2
+INV0516,2024-12-18,Neil Williams,Female,Jaipur,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Wallet,3.7
+INV0517,2025-04-25,Scott Harrison,Male,Bangalore,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,3.5
+INV0518,2024-11-23,William Garcia,Male,Mumbai,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Wallet,5.0
+INV0519,2025-02-24,Brett Hoffman,Female,Bangalore,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Cash,4.9
+INV0520,2024-12-03,Bradley Gonzalez,Male,Delhi,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,UPI,5.0
+INV0521,2024-12-16,Michael Martin,Female,Hyderabad,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Cash,3.2
+INV0522,2024-12-11,Anthony Anderson,Female,Kolkata,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,,4.2
+INV0523,2025-01-11,Mr. Brian Murphy Jr.,Female,Mumbai,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Card,3.6
+INV0524,2024-11-27,Ms. Taylor Wright DVM,Male,Mumbai,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,3.7
+INV0525,2025-01-23,Joshua Meadows PhD,Female,Delhi,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Card,3.6
+INV0526,2025-02-02,Andrea Simmons,Male,Kolkata,P1002,iPhone 14,Mobile,3.0,75000,225000.0,UPI,4.2
+INV0527,2025-03-01,Richard Zavala,Female,Mumbai,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,UPI,3.1
+INV0528,2025-02-21,Lauren Schultz,Female,Delhi,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Wallet,4.6
+INV0529,2025-04-08,Cody Martin,Female,Mumbai,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Wallet,4.5
+INV0530,2025-05-12,Ryan Henson,Female,Kolkata,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Card,4.0
+INV0531,2025-01-19,Brandon Gonzalez,Male,Chennai,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Card,4.8
+INV0532,2025-03-30,Jean Smith,Female,Delhi,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Cash,4.7
+INV0533,2025-04-10,Jeremy Brown,Male,Bangalore,P2003,MacBook Air,Laptop,2.0,95000,190000.0,UPI,4.5
+INV0534,2025-02-27,William Wilson,Male,Mumbai,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Cash,5.0
+INV0535,2024-12-22,Melissa Herrera DDS,Male,Bangalore,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Cash,4.1
+INV0536,2025-04-12,Theresa Arias,Male,Hyderabad,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,UPI,3.7
+INV0537,2025-02-04,Stacy Coleman,Male,Mumbai,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Card,3.4
+INV0538,2025-02-28,Rose Morales,Female,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,4.3
+INV0539,2024-12-02,Christina Peterson,Male,Mumbai,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Wallet,4.2
+INV0540,2024-11-27,Sandra Garza,Male,Pune,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,Wallet,3.4
+INV0541,2025-05-15,Dean Dickerson,Male,Chennai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Wallet,3.6
+INV0542,2025-02-06,Taylor Fuller,Male,Mumbai,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Card,4.0
+INV0543,2024-12-19,Jonathan Ali,Female,Pune,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Cash,3.1
+INV0544,2025-03-01,Alejandro Oconnor,Male,Bangalore,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,Card,3.2
+INV0545,2025-03-26,Kevin Dickerson,Male,Pune,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Card,4.9
+INV0546,2025-03-07,Lisa Clark,Male,Kolkata,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Cash,3.5
+INV0547,2025-04-11,Allen Mcmillan,Male,Chennai,P1001,Samsung M14,Mobile,5.0,14000,70000.0,UPI,4.3
+INV0548,2025-01-19,Garrett Hodges,Female,Kolkata,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,UPI,4.5
+INV0549,2025-05-02,Jason Payne,Female,Chennai,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Wallet,3.2
+INV0550,2024-11-25,Jim Roberts DDS,Male,Delhi,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Card,3.5
+INV0551,2025-02-05,Kimberly Glass,Male,Delhi,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,3.5
+INV0552,2025-01-27,Harold Wiggins,Female,Delhi,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Card,3.3
+INV0553,2024-12-27,Alison Clark,Female,Hyderabad,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Cash,4.4
+INV0554,2024-12-09,Eric Simpson,Female,Delhi,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Card,4.2
+INV0555,2025-01-09,Martin Wong,Male,Pune,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Card,4.5
+INV0556,2025-01-19,Jeffrey Smith,Female,Hyderabad,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Wallet,3.3
+INV0557,2025-05-14,Deborah Harrington,Female,Kolkata,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Wallet,3.1
+INV0558,2025-01-01,Victoria Mullins,Female,Bangalore,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,UPI,3.9
+INV0559,2025-01-31,Cheryl Floyd,Male,Hyderabad,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Card,4.8
+INV0560,2024-12-07,Alexandra Aguilar,Male,Hyderabad,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,Card,3.5
+INV0561,2025-01-28,Elizabeth Johnson,Male,Hyderabad,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,UPI,3.2
+INV0562,2024-12-21,John Adams,Male,Delhi,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Card,3.5
+INV0563,2025-04-08,Valerie Baker,Male,Jaipur,P1002,iPhone 14,Mobile,4.0,75000,300000.0,UPI,4.8
+INV0564,2025-04-12,James Medina,Male,Hyderabad,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,UPI,3.8
+INV0565,2024-11-27,Amy Andersen,Male,Bangalore,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,Wallet,3.4
+INV0566,2024-12-16,Anthony Acevedo,Female,Hyderabad,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Wallet,4.8
+INV0567,2025-03-07,Keith Elliott,Female,Mumbai,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,UPI,4.0
+INV0568,2024-12-03,Timothy Olson,Female,Bangalore,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Cash,3.7
+INV0569,2025-03-14,Manuel Lee,Male,Chennai,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Wallet,3.2
+INV0570,2025-05-17,Kathleen Anderson,Female,Chennai,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Wallet,4.3
+INV0571,2024-12-10,Alexandra Roberts,Male,Kolkata,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Card,3.4
+INV0572,2025-02-25,Bruce Roberts,Male,Chennai,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Wallet,3.0
+INV0573,2024-12-16,Randy Walker,Female,Delhi,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Card,4.1
+INV0574,2025-04-09,Bradley Carlson,Male,Kolkata,P1001,Samsung M14,Mobile,1.0,14000,14000.0,Card,3.8
+INV0575,2025-03-20,Jeffrey Bond,Female,Delhi,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,UPI,5.0
+INV0576,2025-02-21,Amanda Woods,Female,Jaipur,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Cash,4.5
+INV0577,2025-01-01,Jacob Goodman,Male,Delhi,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Card,3.6
+INV0578,2025-01-05,Brooke Rubio,Male,Chennai,P1001,Samsung M14,Mobile,4.0,14000,56000.0,UPI,4.2
+INV0579,2025-04-04,John Duffy,Female,Jaipur,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,Wallet,4.2
+INV0580,2025-02-05,Jeremy Montoya,Female,Delhi,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Wallet,4.7
+INV0581,2025-02-27,Vanessa Johnson,Male,Pune,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Cash,3.6
+INV0582,2025-05-10,Rachel Barron,Male,Delhi,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,3.3
+INV0583,2025-01-09,Christopher Chambers,Male,Jaipur,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Wallet,3.4
+INV0584,2025-03-02,Jason Hardy,Female,Delhi,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Cash,4.8
+INV0585,2025-05-12,Teresa Strong,Female,Jaipur,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Cash,4.9
+INV0586,2025-04-19,Matthew Ayers,Male,Jaipur,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Card,3.9
+INV0587,2024-11-24,Mark Baldwin,Male,Kolkata,P1001,Samsung M14,Mobile,3.0,14000,42000.0,UPI,4.4
+INV0588,2025-02-19,Andrew Flynn,Female,Delhi,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Cash,4.1
+INV0589,2024-12-07,Melinda Ponce,Male,Jaipur,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Card,4.2
+INV0590,2025-01-19,Anna Williams,Male,Mumbai,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,UPI,4.1
+INV0591,2025-03-09,Susan Fowler,Male,Hyderabad,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Cash,3.6
+INV0592,2025-04-23,Paul Hayes,Male,Hyderabad,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Cash,3.5
+INV0593,2025-03-28,Dennis Allen,Female,Mumbai,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Wallet,4.2
+INV0594,2025-04-03,Sandra Reyes,Female,Kolkata,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Card,3.1
+INV0595,2024-12-19,Jennifer Hobbs,Male,Chennai,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Card,3.1
+INV0596,2025-01-04,Mr. Matthew Williams Jr.,Female,Pune,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Cash,4.7
+INV0597,2024-11-26,Erik Choi,Female,Mumbai,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Cash,4.7
+INV0598,2025-02-26,Amber Parks,Female,Pune,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,UPI,3.2
+INV0599,2025-02-11,Olivia Madden,Female,Jaipur,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Card,3.3
+INV0600,2024-11-25,Calvin Brooks,Female,Chennai,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Card,4.6
+INV0601,2025-04-20,Daniel Jennings,Female,Jaipur,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,Card,4.7
+INV0602,2024-12-27,Ann Parker,Male,Mumbai,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Wallet,5.0
+INV0603,2025-05-16,Kimberly Hunt,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,UPI,4.3
+INV0604,2024-11-21,Amber Allen,Female,Bangalore,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Wallet,4.8
+INV0605,2025-03-05,Anthony Norman,Male,Jaipur,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Wallet,3.1
+INV0606,2024-12-14,Randy Walter,Male,Jaipur,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,3.7
+INV0607,2025-03-27,David White,Female,Pune,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Cash,3.2
+INV0608,2024-12-16,Denise Alexander,Female,Kolkata,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Wallet,4.7
+INV0609,2025-01-07,Leah Richmond,Female,Kolkata,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Wallet,3.4
+INV0610,2024-12-17,Eddie Wolf,Female,Pune,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,UPI,4.2
+INV0611,2025-01-08,Christopher King,Female,Jaipur,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,UPI,4.7
+INV0612,2025-03-04,Richard Davis,Male,Bangalore,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Card,3.3
+INV0613,2025-05-10,Emily Torres,Male,Delhi,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Cash,3.6
+INV0614,2025-04-05,Patrick Porter,Male,Hyderabad,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Card,3.4
+INV0615,2025-04-07,Mrs. Katherine Brewer DDS,Male,Kolkata,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Cash,4.6
+INV0616,2024-12-28,Trevor Cherry,Female,Delhi,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Card,3.4
+INV0617,2025-01-09,Matthew Hall,Male,Pune,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Wallet,3.1
+INV0618,2025-02-18,Jerry Johnson,Female,Chennai,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Cash,3.1
+INV0619,2025-01-18,Beverly Bradley,Female,Chennai,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Card,3.5
+INV0620,2025-04-15,Paul Fisher,Male,Pune,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Cash,3.6
+INV0621,2025-03-23,Sarah Perez,Male,Bangalore,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Card,3.9
+INV0622,2025-05-17,Pam Johnson,Female,Hyderabad,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,4.4
+INV0623,2025-03-08,Christine Harris,Female,Chennai,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,UPI,4.6
+INV0624,2024-11-28,Patricia Wiley,Female,Mumbai,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Wallet,4.0
+INV0625,2025-03-02,Karen Campbell,Male,Jaipur,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,4.3
+INV0626,2024-12-20,Craig Watts,Male,Chennai,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Card,3.8
+,2025-04-10,Anthony Contreras,Female,Chennai,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Card,3.2
+INV0628,2024-12-10,Robert Hernandez,Female,Delhi,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Wallet,3.3
+INV0629,2025-02-06,Craig Riddle,Female,Mumbai,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,UPI,4.0
+INV0630,2024-12-22,Mark Hansen,Male,Chennai,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Wallet,3.1
+INV0631,2025-02-23,John Simpson,Female,Jaipur,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Wallet,4.2
+INV0632,2025-02-25,Jessica Johnson,Male,Pune,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Card,4.9
+INV0633,2025-05-04,Benjamin Sanders,Male,Kolkata,P1002,iPhone 14,Mobile,2.0,75000,150000.0,UPI,3.4
+INV0634,2025-02-26,Mary Taylor,Female,Hyderabad,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,UPI,4.0
+INV0635,2025-04-29,Aaron Galvan,Male,Delhi,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,UPI,3.5
+INV0636,2025-04-17,Christine Williamson,Female,Chennai,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Wallet,3.0
+INV0637,2025-01-06,Tyler Fernandez,Male,Mumbai,P3003,JBL Headphones,,4.0,2500,10000.0,Wallet,4.2
+INV0638,2025-01-07,Thomas Garcia,Male,Hyderabad,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Card,3.1
+INV0639,2024-11-23,Gina Rogers,Female,Mumbai,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Card,3.9
+INV0640,2025-02-10,Robin Smith,Female,Kolkata,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,UPI,3.0
+INV0641,2025-01-06,Adam Jones,Male,Hyderabad,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Wallet,3.7
+INV0642,2024-12-02,Lauren Moore,Female,Jaipur,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Card,3.0
+INV0643,2024-12-02,Elizabeth Rodriguez,Male,Jaipur,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,UPI,5.0
+INV0644,2025-03-07,Lisa Hernandez,Male,Jaipur,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Card,4.0
+INV0645,2025-01-06,Joseph Bass,Male,Chennai,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,UPI,4.3
+INV0646,2024-11-30,Ryan Jones,Male,Delhi,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Cash,4.1
+INV0647,2025-02-04,Robert Morales,Female,Bangalore,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Wallet,4.5
+INV0648,2024-12-02,Susan Guzman,Female,Hyderabad,P1001,Samsung M14,Mobile,1.0,14000,14000.0,UPI,4.1
+INV0649,2024-11-16,Jennifer Rosales,Female,Mumbai,P1001,Samsung M14,Mobile,1.0,14000,14000.0,UPI,3.1
+INV0650,2025-01-27,Joanna Williams,Female,Mumbai,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,Cash,3.3
+INV0651,2025-01-21,John Simmons,Female,Mumbai,P1002,iPhone 14,Mobile,5.0,75000,375000.0,UPI,4.9
+INV0652,2024-11-28,Edward Noble,Male,Hyderabad,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,UPI,4.5
+INV0653,2025-02-26,Casey Chambers,Female,Chennai,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Wallet,3.3
+INV0654,2025-05-12,Joseph Blankenship,Male,Hyderabad,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Card,4.6
+INV0655,2025-04-10,Joshua Miller,Female,Jaipur,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Wallet,4.7
+INV0656,2025-02-21,Brenda Short,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Card,4.2
+INV0657,2025-02-03,Mary Lyons,Male,Bangalore,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,UPI,3.5
+INV0658,2025-04-20,Jacob Meyer,Female,Chennai,P2003,MacBook Air,Laptop,3.0,95000,285000.0,UPI,4.8
+INV0659,2025-01-05,Karen Guerra,Male,Hyderabad,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,4.5
+INV0660,2025-05-15,Steven Carroll,Male,Delhi,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Cash,4.2
+INV0661,2025-03-11,James Taylor,Male,Hyderabad,P2002,Dell Inspiron,,4.0,48000,192000.0,Wallet,4.4
+INV0662,2024-12-06,Paul Perez,Male,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Card,3.7
+INV0663,2025-03-21,Samantha Kennedy,Male,Delhi,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Card,4.4
+INV0664,2025-04-22,Shannon Wilson,Male,Mumbai,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,Wallet,4.9
+INV0665,2024-12-18,Sharon Gilbert,Female,Bangalore,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Wallet,4.8
+INV0666,2025-04-27,Morgan Lewis,Male,Hyderabad,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Wallet,4.3
+INV0667,2025-03-21,Diane Huynh,Male,Chennai,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Cash,4.9
+INV0668,2025-04-09,Stacey Miller,Male,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Cash,3.0
+INV0669,2025-04-01,Yolanda Johnston,Male,Pune,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Card,4.6
+INV0670,2024-12-12,John Cooke,Male,Mumbai,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Wallet,4.1
+INV0671,2025-04-07,Emma Ruiz,Female,Kolkata,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Cash,3.1
+INV0672,2024-11-20,Jason Patrick,Female,Delhi,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,4.8
+INV0673,2024-12-03,Robin Serrano,Male,Kolkata,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Card,3.4
+INV0674,2025-01-21,Dustin Jones,Male,Jaipur,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Cash,4.2
+INV0675,2024-12-21,Juan Hernandez,Female,Bangalore,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Wallet,5.0
+INV0676,2024-12-19,Amber Hughes,Male,Delhi,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Cash,4.8
+INV0677,2025-03-01,Joel Roberts,Female,Jaipur,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Wallet,3.5
+INV0678,2025-05-16,Kevin Rodriguez,Female,Mumbai,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,4.2
+INV0679,2025-01-06,Hannah Berger,,Pune,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Wallet,5.0
+INV0680,2025-03-07,Kimberly Greene,Female,Pune,P2003,MacBook Air,Laptop,4.0,95000,380000.0,UPI,3.8
+INV0681,2025-05-12,Jennifer White,Male,Chennai,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Card,3.7
+INV0682,2025-04-08,William Parker,Female,Kolkata,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Wallet,4.1
+INV0683,2025-03-22,Felicia Meyer,Male,Pune,P1001,Samsung M14,Mobile,1.0,14000,14000.0,Card,3.5
+INV0684,2025-04-26,Tanya Cole,Male,Chennai,P1001,Samsung M14,Mobile,5.0,14000,70000.0,UPI,4.3
+INV0685,2025-01-04,Alyssa Barnes,Female,Mumbai,P1003,Redmi Note 12,Mobile,5.0,13000,65000.0,UPI,4.6
+INV0686,2024-11-27,Heather Myers,Male,Chennai,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Cash,4.3
+INV0687,2024-11-29,Joshua Hill,Female,Delhi,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,UPI,4.3
+INV0688,2024-11-21,Mr. Charles Conner,Male,Chennai,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Wallet,4.9
+INV0689,2025-04-22,Alexis Rodriguez,Female,Delhi,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Wallet,3.2
+INV0690,2025-01-09,Tammy Moreno,Male,Chennai,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,3.6
+INV0691,2024-12-05,Lindsey Fitzgerald,Male,Delhi,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Card,3.5
+INV0692,2025-04-07,Michael Hodge,Female,Pune,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Cash,3.9
+INV0693,2025-05-09,John Lawrence,Female,Hyderabad,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Wallet,3.0
+INV0694,2024-12-28,Jessica Mcguire,Female,Delhi,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Card,3.4
+INV0695,2025-03-07,Carrie Padilla,Male,Chennai,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,UPI,4.3
+INV0696,2025-01-19,Richard Holloway,Male,Jaipur,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Cash,4.5
+INV0697,2025-04-24,Joseph Brown,Female,Delhi,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Card,3.1
+INV0698,2025-02-15,Bradley Garza,Male,Bangalore,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Cash,4.9
+INV0699,2024-11-28,Terry Snow,Male,Kolkata,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,UPI,3.2
+INV0700,2024-12-16,Corey Harris,Male,Mumbai,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Card,4.1
+INV0701,2024-11-21,Tara Lewis,Female,Pune,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Wallet,3.7
+INV0702,2025-03-24,Abigail Wilcox,Female,Kolkata,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,UPI,4.2
+INV0703,2024-12-05,Mark Ward DDS,Female,Delhi,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,UPI,3.3
+INV0704,2025-03-10,Eric Sawyer,Male,Mumbai,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Cash,3.0
+INV0705,2025-03-01,Sean Powell,Female,Bangalore,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Cash,3.5
+INV0706,2025-02-21,Danielle Martin,Female,Pune,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Card,4.5
+INV0707,2025-01-02,Jason Bass,Male,Kolkata,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Card,3.8
+INV0708,2025-03-13,Olivia Carney,Male,Hyderabad,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Wallet,3.7
+INV0709,2025-04-27,Meredith Knight,Female,Mumbai,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Wallet,3.0
+INV0710,2024-12-15,Nicholas Mccarthy,Female,Bangalore,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Cash,3.9
+INV0711,2025-03-07,Savannah Chavez,Male,Pune,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,3.1
+INV0712,2025-03-07,Thomas Perkins,Male,Delhi,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,UPI,4.4
+INV0713,2024-12-10,Lauren Jacobs,Male,Chennai,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Cash,3.3
+INV0714,2025-05-09,Joshua Smith,Male,Hyderabad,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Wallet,4.1
+INV0715,2025-02-21,Douglas Bridges,Male,Pune,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,UPI,4.4
+INV0716,2025-04-01,Taylor Olsen MD,Male,Jaipur,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,Card,3.9
+INV0717,2024-11-20,Megan Bean,Male,Chennai,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Card,3.1
+INV0718,2025-02-10,Robert Jenkins MD,Female,Pune,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Cash,3.1
+INV0719,2024-12-06,Danielle Moss,Male,Jaipur,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Wallet,3.3
+INV0720,2025-03-17,Steven Martinez,Male,Jaipur,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Wallet,4.7
+INV0721,2024-12-15,Jennifer Martin,Male,Mumbai,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Card,3.2
+INV0722,2025-02-14,Shannon Jones,Male,Chennai,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Cash,4.1
+INV0723,2024-12-02,Lee Short,Female,Jaipur,P1001,Samsung M14,Mobile,5.0,14000,70000.0,Cash,5.0
+INV0724,2025-03-02,Penny Li,Female,Kolkata,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,Cash,3.7
+INV0725,2025-03-25,John White,Male,Hyderabad,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Cash,3.7
+INV0726,2024-12-13,Robert Chen,Male,Pune,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,Wallet,3.6
+INV0727,2025-05-11,Bailey Hughes,Female,Pune,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Card,4.8
+INV0728,2025-03-26,Christine Krause,Male,Pune,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,UPI,3.3
+INV0729,2025-01-20,Diane Martin,Female,Pune,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Cash,4.3
+INV0730,2024-11-17,Justin Bradley,Male,Delhi,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Cash,5.0
+INV0731,2025-04-27,Kimberly Gonzalez,Female,Kolkata,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Card,4.5
+INV0732,2025-03-22,Mario Barber,Female,Mumbai,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Wallet,3.9
+INV0733,2025-04-13,Linda Mack,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Card,3.5
+INV0734,2025-01-16,Lisa Walton,Female,Kolkata,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,Cash,4.2
+INV0735,2024-12-07,Mrs. Lisa Proctor MD,Male,Bangalore,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,UPI,4.2
+INV0736,2025-04-12,Grace Lee,Female,Pune,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Cash,3.6
+INV0737,2025-02-28,Jennifer Black,Female,Pune,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Card,3.4
+INV0738,,Brenda Richardson,Female,Mumbai,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Wallet,4.9
+INV0739,2025-02-13,Julia Miller,Female,Kolkata,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Cash,4.2
+INV0740,2025-03-03,Eddie Fisher,Female,Chennai,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Wallet,4.8
+INV0741,2024-12-20,Nathan Robinson,Male,Chennai,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Wallet,
+INV0742,2025-03-26,Wendy Miller,Female,Jaipur,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Cash,4.0
+INV0743,2025-01-31,Kevin Bean,Male,Mumbai,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Card,4.0
+INV0744,2025-03-21,Carol Valdez,Female,Delhi,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Cash,3.0
+INV0745,2025-03-22,Alexandra Whitehead,Male,Kolkata,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Cash,3.9
+INV0746,2024-12-08,Linda Smith,Female,Chennai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Card,4.2
+INV0747,2025-03-02,Lawrence Parrish,Male,Kolkata,P1001,Samsung M14,Mobile,3.0,14000,42000.0,UPI,4.8
+INV0748,2025-04-16,Austin Jones,Male,Hyderabad,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,UPI,4.2
+INV0749,2025-04-08,William Wolfe,Male,Delhi,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Wallet,4.9
+INV0750,2025-05-11,Virginia Rivers,Female,Jaipur,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Wallet,4.6
+INV0751,2025-03-04,Timothy Bowen,Female,Hyderabad,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Card,4.1
+INV0752,2025-04-11,Angela Mcconnell,Female,Pune,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,UPI,4.4
+INV0753,2024-11-21,Christina Scott,Female,Hyderabad,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Cash,4.2
+INV0754,2025-02-10,Jessica Trevino,Female,Kolkata,P3003,JBL Headphones,Accessories,1.0,2500,2500.0,Cash,4.8
+INV0755,2025-01-22,Sharon Brown,Female,Kolkata,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Card,3.6
+INV0756,2025-04-02,Michelle Stevens,Male,Kolkata,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Cash,3.1
+INV0757,2024-11-19,Amanda Horton,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Card,3.8
+INV0758,2025-03-02,Charles Chase,Female,Kolkata,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,UPI,4.3
+INV0759,2024-11-30,Frank Blackburn,Male,Hyderabad,P1001,Samsung M14,Mobile,4.0,14000,56000.0,UPI,4.8
+INV0760,2025-04-29,Jennifer Jones,Male,Pune,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Cash,3.2
+INV0761,2024-12-22,Kristen Mata,Male,Chennai,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Card,3.5
+INV0762,2025-02-02,Christina Stephens,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,,3.9
+INV0763,2024-12-23,Amber Hall,Male,Pune,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,UPI,4.0
+INV0764,2024-11-29,Peter Fry,Male,Hyderabad,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Cash,4.6
+INV0765,2025-03-04,John Vaughn,Male,Pune,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,4.5
+INV0766,2025-01-27,Ethan Hampton,Female,Pune,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Card,3.7
+INV0767,2025-02-08,Mr. Colton Martinez,Male,Jaipur,P1002,iPhone 14,Mobile,2.0,75000,150000.0,UPI,3.7
+INV0768,2025-01-08,Shannon Short,Female,Mumbai,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Cash,4.4
+INV0769,2025-02-07,Kayla Elliott,Female,Delhi,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Card,4.0
+INV0770,2025-03-30,Jessica Armstrong,Female,Chennai,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Wallet,3.3
+INV0771,2025-04-18,Bernard Rivas,Male,Jaipur,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Card,4.0
+INV0772,2025-04-23,Jill Ramirez,Male,Mumbai,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Wallet,3.3
+INV0773,2025-02-09,Deborah Young,Female,Pune,P1003,Redmi Note 12,Mobile,5.0,13000,65000.0,Wallet,4.5
+INV0774,2024-12-09,Vanessa Porter,Male,Chennai,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,UPI,3.9
+INV0775,2025-03-21,Shirley Thomas,Male,Hyderabad,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Cash,3.4
+INV0776,2025-03-15,Benjamin Delgado,Female,Chennai,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Card,3.3
+INV0777,2025-05-17,Jason Caldwell,Female,Bangalore,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,UPI,4.0
+INV0778,2024-11-21,Whitney Davis,Female,Bangalore,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Wallet,4.6
+INV0779,2025-03-12,David Prince,Female,Jaipur,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Wallet,4.4
+INV0780,2025-01-01,Anthony Watson,Male,Mumbai,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Card,4.4
+INV0781,2025-03-20,Karen Campbell,Female,Pune,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Cash,4.0
+INV0782,2025-04-25,Brian Blackburn,Female,Hyderabad,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Wallet,4.8
+INV0783,2025-03-16,James Morgan,Male,Pune,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Card,4.1
+INV0784,2025-03-03,Lisa Johnson,Female,Jaipur,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,UPI,3.8
+INV0785,2025-04-22,Alicia Russell,Female,Hyderabad,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Card,3.5
+INV0786,2025-03-03,Nichole Henson,Male,Mumbai,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Wallet,4.5
+INV0787,2025-01-30,Mr. Benjamin Kim,Female,Delhi,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,4.3
+INV0788,2024-12-13,Maria Todd,Female,Delhi,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,3.4
+INV0789,2025-03-31,Jesus Crosby,Female,Chennai,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,Cash,4.0
+INV0790,2025-02-18,John Wright,Male,Chennai,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,4.3
+INV0791,2025-01-09,Robert Porter,Male,Pune,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Wallet,4.2
+INV0792,2025-02-08,Justin Ferrell,Female,Chennai,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Cash,4.1
+INV0793,2025-03-11,Colin Moore,Male,Delhi,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Wallet,4.1
+INV0794,2025-05-02,Scott Cummings,Male,Jaipur,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,UPI,4.9
+INV0795,2025-03-12,Marie Wallace,Male,Chennai,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Cash,3.8
+INV0796,2025-04-27,Anthony Eaton,Male,Chennai,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Wallet,4.1
+INV0797,2025-05-09,Taylor Hart,Male,Mumbai,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Card,4.7
+INV0798,2025-03-13,Heather Banks,Male,Delhi,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Wallet,4.8
+INV0799,2025-02-16,Roy Douglas,Male,Bangalore,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,4.8
+INV0800,2024-11-20,David Miller,Male,Chennai,P2003,MacBook Air,Laptop,2.0,95000,190000.0,Cash,4.6
+INV0801,2025-02-28,Jared Vazquez,Male,Kolkata,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Wallet,3.1
+INV0802,2025-01-28,David Contreras,Male,Pune,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Cash,3.3
+INV0803,2025-04-14,Heather Fritz,Female,Kolkata,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Wallet,5.0
+INV0804,2025-05-14,Joseph Jones,Male,Delhi,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Wallet,3.8
+INV0805,2025-03-09,Jennifer Curry,Female,Hyderabad,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,UPI,4.1
+INV0806,2024-12-28,Victoria Aguilar,Male,Chennai,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,3.2
+INV0807,2025-01-03,Michael Mendoza,Female,Jaipur,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Cash,4.6
+INV0808,2025-04-23,Fernando Garcia,Female,Bangalore,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Wallet,3.1
+INV0809,2025-02-05,Kathleen Mcdonald,Male,Pune,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Card,4.4
+INV0810,2025-04-12,Katherine Brown,Female,Chennai,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Card,4.3
+INV0811,2025-01-17,Richard Brown,Female,Bangalore,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Cash,3.7
+INV0812,2025-03-31,Jasmine Martinez,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,,2500,5000.0,Cash,4.1
+INV0813,2025-05-16,John Baker,Male,Chennai,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Card,3.6
+INV0814,2024-11-30,James Scott,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Wallet,3.4
+INV0815,2025-04-29,Joanna Evans,Female,Delhi,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,3.4
+INV0816,2025-05-03,Matthew Fletcher,Female,Hyderabad,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Card,4.0
+INV0817,2024-12-04,Paul Gonzalez III,Male,Jaipur,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Cash,4.9
+INV0818,2025-02-24,Stephen Zimmerman,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,Card,3.6
+INV0819,2025-03-14,John Boyle,Female,Kolkata,P1002,iPhone 14,Mobile,4.0,75000,300000.0,Wallet,4.2
+INV0820,2025-01-18,Sarah Torres,Female,Mumbai,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Cash,3.6
+INV0821,2025-03-12,Casey Cooper,Female,Bangalore,P1002,iPhone 14,Mobile,2.0,75000,150000.0,UPI,3.6
+INV0822,2025-02-08,Dr. Nicole Kline,Male,Pune,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Card,4.6
+INV0823,2025-02-25,Katrina Clark,Male,Jaipur,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Card,3.8
+INV0824,2025-05-03,Christopher Graham,Male,Bangalore,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Cash,4.4
+INV0825,2024-12-18,Miss Stephanie Simmons,Female,Delhi,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,UPI,4.7
+INV0826,2025-03-19,Kelly Castillo,Female,Bangalore,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,UPI,3.5
+INV0827,2025-01-08,Laura Peterson,Male,Bangalore,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Cash,5.0
+INV0828,2025-02-05,Phillip Guzman,Female,Delhi,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Card,3.5
+INV0829,2025-02-23,Michele Rhodes,Male,Pune,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,3.3
+INV0830,2025-01-20,Justin Smith,Male,Pune,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Wallet,4.0
+INV0831,2024-11-17,Corey Johnson,Female,Bangalore,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,UPI,4.6
+INV0832,2025-02-02,Robert Cardenas,Female,Pune,P2003,MacBook Air,Laptop,5.0,95000,475000.0,Wallet,3.7
+INV0833,2025-04-06,Cory King,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Wallet,3.0
+INV0834,2024-11-21,Sabrina Patel,Female,Pune,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Wallet,4.2
+INV0835,2024-11-30,Amber Hartman,Female,Bangalore,P1002,iPhone 14,Mobile,4.0,75000,300000.0,UPI,3.0
+INV0836,2025-02-08,John Gonzalez,Male,Hyderabad,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Cash,3.6
+INV0837,2025-01-20,Melissa Parks,Female,Hyderabad,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,UPI,4.5
+INV0838,2025-05-16,Jacob Morgan,Male,Chennai,P1001,Samsung M14,Mobile,1.0,14000,14000.0,Cash,3.9
+INV0839,2025-01-02,Todd Hawkins,Female,Delhi,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Wallet,3.6
+INV0840,2025-01-06,Angela Smith,Female,Chennai,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,UPI,4.0
+INV0841,2024-11-29,Jennifer Young,Male,Delhi,P2001,HP Pavilion 15,Laptop,5.0,52000,260000.0,Cash,3.1
+INV0842,2025-04-05,Mark Davenport,Male,Kolkata,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Wallet,3.8
+INV0843,2024-11-29,Antonio Thompson,Male,Pune,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Wallet,4.0
+INV0844,2024-12-03,Samantha Carrillo,Female,Mumbai,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Wallet,4.7
+INV0845,2025-04-27,Jonathan Brown,Male,Delhi,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Cash,3.3
+INV0846,2025-02-19,Randy Riley,Male,Kolkata,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Wallet,4.0
+INV0847,2024-12-27,Kristina Calderon,Male,Kolkata,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Wallet,3.4
+INV0848,2024-12-02,Jonathan Lopez,Female,Pune,P1003,Redmi Note 12,Mobile,5.0,13000,65000.0,Cash,4.7
+INV0849,2025-05-17,Danielle Davis,Female,Pune,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Wallet,4.1
+INV0850,2025-04-11,Kristie Wood,Female,Kolkata,P3002,HP Keyboard,Accessories,2.0,1200,2400.0,Wallet,4.6
+INV0851,2025-01-15,Donald Buchanan,Female,Chennai,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Cash,3.4
+INV0852,2025-04-29,Jason Hernandez,Female,Jaipur,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,4.9
+INV0853,2025-02-28,Cynthia Adams,Female,Jaipur,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Wallet,4.6
+INV0854,2025-03-27,Mr. Daniel Gates,Male,Chennai,P5002,Boat Smart Watch,Smart Watch,4.0,2500,10000.0,UPI,4.5
+INV0855,2025-03-05,Scott Watts,Male,Mumbai,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Cash,4.2
+INV0856,2025-01-04,Jane Phillips,Female,Pune,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,Wallet,3.1
+INV0857,2025-01-07,Thomas Rodriguez,Female,Delhi,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Card,3.2
+INV0858,2025-05-12,Miss Sarah Stephens,Female,Chennai,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Card,4.4
+INV0859,2025-03-15,Jennifer Nelson,Male,Bangalore,P5002,Boat Smart Watch,Smart Watch,3.0,2500,7500.0,Card,3.0
+INV0860,2024-12-19,Michelle Delgado,Female,Mumbai,P1003,Redmi Note 12,Mobile,,13000,13000.0,Cash,3.5
+INV0861,2024-12-05,Joseph Adams,Male,Pune,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,UPI,3.4
+INV0862,2024-12-16,Rachel Warren,Male,Hyderabad,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,UPI,3.3
+INV0863,2025-04-26,Megan Rivera,Female,Bangalore,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Card,3.4
+INV0864,2025-04-30,Jennifer Bartlett,Male,Pune,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Card,3.2
+INV0865,2025-04-05,Eric Wright,Female,Bangalore,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Card,4.7
+INV0866,2024-11-26,Hannah Rose,Male,Bangalore,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Card,3.6
+INV0867,2024-12-06,Chad Brennan,Female,Jaipur,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Card,3.4
+INV0868,2025-02-04,Shawn Miller,Female,Jaipur,P1002,iPhone 14,Mobile,4.0,75000,300000.0,UPI,4.1
+INV0869,2025-04-03,Tanya Rodriguez,Female,Hyderabad,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,UPI,3.3
+INV0870,2025-03-30,Jacob Ward,Female,Chennai,P1001,Samsung M14,Mobile,2.0,14000,28000.0,UPI,4.6
+INV0871,2025-03-27,Jeremy Bowman,Male,Mumbai,P1001,Samsung M14,Mobile,1.0,14000,14000.0,Wallet,3.5
+INV0872,2024-11-20,Penny Walker,Female,Chennai,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Wallet,3.8
+INV0873,2025-03-17,Kathleen Brown,Female,Bangalore,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,UPI,4.6
+INV0874,2025-05-13,Tina Baker,Female,Mumbai,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Card,3.2
+INV0875,2024-12-10,Ashley Marshall,Female,Kolkata,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,Cash,4.2
+INV0876,2024-12-13,Bryan Kerr,Male,Chennai,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Wallet,3.4
+INV0877,2025-03-10,Amber Cohen DVM,Male,Jaipur,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Cash,3.5
+INV0878,2025-04-17,Gwendolyn Villegas,Female,Hyderabad,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Wallet,3.5
+INV0879,2024-11-17,April Payne,Male,Mumbai,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Card,4.1
+INV0880,2025-03-18,Joshua Moore DDS,Male,Delhi,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Card,4.2
+INV0881,2025-03-01,Paula Lee,Female,Jaipur,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Card,3.7
+INV0882,2025-04-18,Jacob Nolan,Female,Jaipur,P5001,Apple Watch,Smart Watch,4.0,32000,128000.0,Wallet,3.9
+INV0883,2025-01-10,Nancy Parks,Female,Delhi,P2001,HP Pavilion 15,Laptop,4.0,52000,208000.0,Wallet,4.9
+INV0884,2025-04-23,Jeffery Howard,Female,,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Cash,4.9
+INV0885,2025-01-15,Shannon Gordon,Male,Chennai,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,UPI,4.7
+INV0886,2025-04-19,Erica Mccarthy,Male,Delhi,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,UPI,4.9
+INV0887,2025-05-04,Nancy Roberts,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Card,4.2
+INV0888,2025-01-17,Jeremy Thompson,Female,Bangalore,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,UPI,4.9
+INV0889,2024-12-16,Jackson Clark,Male,Kolkata,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Cash,4.1
+INV0890,2025-02-08,Yesenia Johnson,Female,Chennai,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,UPI,4.6
+INV0891,2025-04-23,William Richardson,Male,Chennai,P3001,Logitech Mouse,Accessories,3.0,700,2100.0,UPI,4.4
+INV0892,2025-02-12,Rick Johnson,Female,Hyderabad,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Cash,4.3
+INV0893,2024-12-20,Casey Mercado,Female,Pune,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Card,3.8
+INV0894,2024-11-18,Patrick Rodriguez,Female,Jaipur,P2001,HP Pavilion 15,Laptop,2.0,52000,104000.0,Cash,4.0
+INV0895,2025-02-03,Scott Peters,Male,Bangalore,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Cash,3.4
+INV0896,2025-03-10,Sheila Jones,Male,Bangalore,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,UPI,4.6
+INV0897,2025-04-16,Patrick Weaver,Male,Hyderabad,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Card,4.8
+INV0898,2024-12-03,William Moore,Male,Jaipur,P1003,Redmi Note 12,Mobile,5.0,13000,65000.0,Card,4.0
+INV0899,2024-12-30,Carol Black,Female,Pune,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,Wallet,3.1
+INV0900,2024-12-09,,Female,Hyderabad,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,Cash,4.4
+INV0901,2025-04-07,Matthew Mckinney,Female,Chennai,P2003,MacBook Air,Laptop,1.0,95000,95000.0,UPI,3.4
+INV0902,2025-04-01,Jason Davis,Female,Pune,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,UPI,4.5
+INV0903,2024-12-31,Amanda Taylor,Male,Kolkata,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Card,3.2
+INV0904,2025-02-20,Chelsea Martinez,Male,Hyderabad,P5001,Apple Watch,Smart Watch,1.0,32000,32000.0,Wallet,4.0
+INV0905,2025-02-08,Natasha Haynes,Male,Chennai,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Card,4.9
+INV0906,2025-02-28,Thomas Carter,Female,Hyderabad,P2003,MacBook Air,Laptop,3.0,95000,285000.0,Card,4.1
+INV0907,2025-04-18,Brandon Simmons,Male,Pune,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Cash,3.7
+INV0908,2025-02-19,Steven Davis,Female,Bangalore,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Card,4.8
+INV0909,2025-05-05,Adam Miranda,Male,Mumbai,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Cash,4.6
+INV0910,2025-05-09,Jessica Thomas,Female,Pune,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Wallet,4.4
+INV0911,2025-01-21,Tammy Owens,Male,Delhi,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Cash,4.8
+INV0912,2025-03-31,Brianna Huffman,Female,Bangalore,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Cash,4.4
+INV0913,2025-03-01,Mark Williams,Male,Bangalore,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Wallet,3.2
+INV0914,2025-01-18,Mr. Stephen Olson,Male,Mumbai,P3002,HP Keyboard,Accessories,4.0,1200,4800.0,Wallet,3.9
+INV0915,2025-04-24,Charles Johnston,Female,Delhi,P1002,iPhone 14,Mobile,5.0,75000,375000.0,Wallet,4.7
+INV0916,2025-03-15,David Jones,Male,Chennai,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,Cash,3.6
+INV0917,2024-12-10,Katie Brewer,Male,Hyderabad,P1001,Samsung M14,Mobile,5.0,14000,70000.0,Card,4.0
+INV0918,2025-01-31,Erik Molina,Female,Chennai,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Card,4.5
+INV0919,2025-02-01,Michael Ruiz,Female,Mumbai,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Card,4.8
+INV0920,2025-02-09,Todd Cannon,Male,Chennai,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Cash,4.6
+INV0921,2025-04-15,Alexandria Campbell,Female,Hyderabad,P5001,Apple Watch,Smart Watch,3.0,32000,96000.0,Cash,3.6
+INV0922,2025-01-01,Rebecca Sanchez,Female,Kolkata,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Cash,4.6
+INV0923,2025-01-29,Robert Gray,Male,Hyderabad,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,Wallet,4.3
+INV0924,2025-05-15,Sean Adams,Female,Chennai,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Cash,3.2
+INV0925,2025-03-03,Ashley Hammond,Female,Kolkata,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Cash,4.7
+INV0926,2024-12-27,Travis Tate,Female,Mumbai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Cash,3.4
+INV0927,2024-11-20,Julia Smith MD,Male,Delhi,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,Card,4.5
+INV0928,2024-12-06,James Wilson,Male,Pune,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,UPI,5.0
+INV0929,2025-04-17,Kristie Ramirez,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,UPI,4.2
+INV0930,2025-04-28,Evelyn Brown,Female,Chennai,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Cash,4.1
+INV0931,2025-02-13,Robin Jennings,Male,Kolkata,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,4.3
+INV0932,2025-05-01,Zachary Price,Female,Chennai,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Wallet,3.6
+INV0933,2025-02-11,Eric Herrera,Female,Pune,P4001,Samsung Smart TV,Smart TV,4.0,40000,160000.0,Cash,4.3
+INV0934,2025-02-02,Logan Rodriguez,Female,Delhi,P1002,iPhone 14,Mobile,2.0,75000,150000.0,UPI,5.0
+INV0935,2025-04-17,Tricia Day,Male,Delhi,P1002,iPhone 14,Mobile,3.0,75000,225000.0,UPI,3.7
+INV0936,2024-11-16,Cassandra Morris,Male,Hyderabad,P3001,Logitech Mouse,Accessories,4.0,700,2800.0,Cash,3.8
+INV0937,2025-03-22,Caleb Santana,Female,Bangalore,P1003,Redmi Note 12,Mobile,3.0,13000,39000.0,Cash,4.8
+INV0938,2025-03-14,Suzanne Flowers,Male,Kolkata,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,4.2
+INV0939,2025-04-04,Warren Villa DDS,Female,Kolkata,P5001,,Smart Watch,5.0,32000,160000.0,Card,4.0
+INV0940,2025-03-16,Richard Miles,Female,Bangalore,P3003,JBL Headphones,Accessories,5.0,2500,12500.0,Card,3.1
+INV0941,2025-04-11,Michael Allen,Male,Delhi,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Wallet,4.8
+INV0942,2024-12-27,Michael Jones,Female,Pune,P1001,Samsung M14,Mobile,4.0,14000,56000.0,Wallet,4.7
+INV0943,2024-12-17,Matthew Hall,Female,Bangalore,P1003,Redmi Note 12,Mobile,5.0,13000,65000.0,Card,4.7
+INV0944,2025-03-20,Lindsay Gomez,Female,Kolkata,P3002,HP Keyboard,Accessories,1.0,1200,1200.0,Wallet,3.5
+INV0945,2025-02-04,Shawn Jackson,Female,Hyderabad,P1002,iPhone 14,Mobile,3.0,75000,225000.0,Card,3.8
+INV0946,2024-12-04,Kevin Cox,Male,Jaipur,P2003,MacBook Air,Laptop,1.0,95000,95000.0,UPI,4.2
+INV0947,2024-12-22,Ryan Anderson,Female,Hyderabad,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Card,4.7
+INV0948,2024-12-02,Gregory Smith,Female,Hyderabad,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Cash,4.1
+INV0949,2025-02-05,Monica Powell,Female,Pune,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Card,3.7
+INV0950,2025-02-11,Kari Morris,Male,Bangalore,P4001,Samsung Smart TV,Smart TV,5.0,40000,200000.0,Wallet,4.9
+INV0951,2025-01-29,Mark Rodriguez,Female,Hyderabad,P3001,Logitech Mouse,Accessories,1.0,700,700.0,Cash,3.2
+INV0952,2024-11-22,John Hobbs,Male,Jaipur,P3002,HP Keyboard,Accessories,3.0,1200,3600.0,Cash,3.0
+INV0953,2025-01-19,Brian Johnson,Male,Mumbai,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,UPI,4.4
+INV0954,2025-01-28,Kathryn Jackson,Female,Pune,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Cash,4.2
+INV0955,2025-05-05,Robert Rogers,Male,Chennai,P1001,Samsung M14,Mobile,2.0,14000,28000.0,Cash,4.3
+INV0956,2025-02-12,Kelly Church,Male,Bangalore,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Wallet,4.2
+INV0957,2025-04-19,Jesse King,Female,Jaipur,P4001,Samsung Smart TV,Smart TV,1.0,40000,40000.0,Wallet,4.5
+INV0958,2025-04-10,Deanna Quinn,Female,Hyderabad,P1002,iPhone 14,Mobile,3.0,75000,225000.0,UPI,5.0
+INV0959,2025-02-20,Joseph Hawkins,Female,Pune,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Wallet,3.5
+INV0960,2025-04-02,Sydney White,Female,Kolkata,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Card,4.9
+INV0961,2025-03-09,Eric Parker,Male,Kolkata,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,UPI,3.3
+INV0962,2025-05-13,Erik Robinson,Male,Chennai,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,UPI,4.7
+INV0963,2024-12-26,Tammy Cameron DVM,Male,Jaipur,P1003,Redmi Note 12,Mobile,4.0,13000,52000.0,Card,3.8
+INV0964,2025-02-22,Thomas Cooper,Female,Kolkata,P1001,Samsung M14,Mobile,3.0,14000,42000.0,Card,3.1
+INV0965,2025-03-20,Gabriel Todd,Female,Hyderabad,P5002,Boat Smart Watch,Smart Watch,1.0,2500,2500.0,Cash,4.8
+INV0966,2025-05-17,Aaron Dixon,Female,Jaipur,P2001,HP Pavilion 15,Laptop,1.0,52000,52000.0,Cash,4.1
+INV0967,2025-01-16,Drew Wheeler,Female,Jaipur,P2002,Dell Inspiron,Laptop,1.0,48000,48000.0,UPI,4.2
+INV0968,2025-04-24,Paul Hayes,Female,Jaipur,P2001,HP Pavilion 15,Laptop,3.0,52000,156000.0,UPI,4.0
+INV0969,2025-03-22,Johnathan Montoya,Male,Mumbai,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,4.3
+INV0970,2024-11-19,Brian Vargas,Female,Pune,P4001,Samsung Smart TV,Smart TV,2.0,40000,80000.0,Cash,3.1
+INV0971,2025-03-18,Jon Bean,Female,Bangalore,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Card,3.6
+INV0972,2025-03-02,Mark Fowler,Female,Jaipur,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,Wallet,4.1
+INV0973,2024-12-28,Craig Johnson,Female,Pune,P2002,Dell Inspiron,Laptop,2.0,48000,96000.0,UPI,3.2
+INV0974,2025-01-07,Jennifer Anderson,Female,Jaipur,,HP Keyboard,Accessories,5.0,1200,6000.0,UPI,3.5
+INV0975,2025-01-26,Michael Floyd,Female,Chennai,P4001,Samsung Smart TV,Smart TV,3.0,40000,120000.0,UPI,4.0
+INV0976,2025-01-23,Tina Scott,Male,Hyderabad,P2003,MacBook Air,Laptop,1.0,95000,95000.0,UPI,3.4
+INV0977,2024-12-28,Douglas Alexander,Female,Chennai,P5002,Boat Smart Watch,Smart Watch,5.0,2500,12500.0,Wallet,3.1
+INV0978,2025-03-18,Diane Andrews,Male,Chennai,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Cash,3.7
+INV0979,2025-05-08,Randy Powell,Female,Jaipur,P2003,MacBook Air,Laptop,1.0,95000,95000.0,Cash,4.2
+INV0980,2025-03-07,Cassandra Jenkins,Female,Bangalore,P3002,HP Keyboard,Accessories,5.0,1200,6000.0,Card,5.0
+INV0981,2025-01-31,Diane Horne,Female,Chennai,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,Card,4.4
+INV0982,2025-04-16,Jerome Rush,Female,Mumbai,P2002,Dell Inspiron,Laptop,3.0,48000,144000.0,Wallet,4.6
+INV0983,2025-05-06,Alicia Howell,Female,Hyderabad,P1001,Samsung M14,Mobile,5.0,14000,70000.0,Wallet,4.7
+INV0984,2025-04-24,Eddie Keller,Female,Jaipur,P1002,iPhone 14,Mobile,1.0,75000,75000.0,Wallet,4.5
+INV0985,2024-12-30,Pamela Hernandez,Female,Hyderabad,P5001,Apple Watch,Smart Watch,5.0,32000,160000.0,Wallet,3.9
+INV0986,2025-04-09,Christine White,Female,Mumbai,P1002,iPhone 14,Mobile,2.0,75000,150000.0,Wallet,4.8
+INV0987,2025-01-14,Diana Houston,Female,Jaipur,P5001,Apple Watch,Smart Watch,2.0,32000,64000.0,Wallet,3.4
+INV0988,2025-03-07,Javier Jacobs,Male,Mumbai,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Card,3.0
+INV0989,2024-12-30,Glenn Soto,Male,Delhi,P3003,JBL Headphones,Accessories,3.0,2500,7500.0,Card,4.3
+INV0990,2025-02-23,Debra Pace,Female,Pune,P3003,JBL Headphones,Accessories,4.0,2500,10000.0,Card,3.4
+INV0991,2025-02-21,Joseph Parker,Female,Jaipur,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,Card,3.3
+INV0992,2025-05-08,Jennifer Boyd,Male,Mumbai,P2002,Dell Inspiron,Laptop,5.0,48000,240000.0,Wallet,3.4
+INV0993,2025-01-17,Christopher Miles,Male,Pune,P1003,Redmi Note 12,Mobile,2.0,13000,26000.0,Cash,4.0
+INV0994,2025-03-23,Lisa Buck,Female,Bangalore,P3001,Logitech Mouse,Accessories,2.0,700,1400.0,Wallet,3.8
+INV0995,2025-05-17,Omar Weber,Male,Jaipur,P2003,MacBook Air,Laptop,4.0,95000,380000.0,Cash,3.6
+INV0996,2024-12-30,Kelly Long,Male,Mumbai,P3003,JBL Headphones,Accessories,2.0,2500,5000.0,Card,3.3
+INV0997,2024-11-28,Laura Martinez,Female,Chennai,P1003,Redmi Note 12,Mobile,1.0,13000,13000.0,UPI,4.2
+INV0998,2024-12-21,Victor Gonzales,Female,Pune,P3001,Logitech Mouse,Accessories,5.0,700,3500.0,Cash,4.2
+INV0999,2024-12-29,Devin Howard,Male,Mumbai,P5002,Boat Smart Watch,Smart Watch,2.0,2500,5000.0,Wallet,3.6
+INV1000,2025-04-23,Diana Decker,Female,Hyderabad,P2002,Dell Inspiron,Laptop,4.0,48000,192000.0,Cash,3.9

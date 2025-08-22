@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Interactive Sales Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="styles.css">
+ 
+</head>
+<body>
+
+  <h2>Sales Data Analysis Dashboard</h2>
+
+  <div class="chart-buttons">
+    <button onclick="showChart('bar')">Monthly Sales</button>
+    <button onclick="showChart('pie')">Category Sales</button>
+    <button onclick="showChart('line')">Revenue Trend</button>
+  </div>
+
+  <div id="barChartContainer" class="chart-container">
+    <canvas id="barChart"></canvas>
+  </div>
+
+  <div id="pieChartContainer" class="chart-container">
+    <canvas id="pieChart"></canvas>
+  </div>
+
+  <div id="lineChartContainer" class="chart-container">
+    <canvas id="lineChart"></canvas>
+  </div>
+
+  <p id="insight" class="note"></p>
+
+ <script src="script.js"></script>
+
+</body>
+</html>
